@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Table Colspan and Rowspan</title>
+
+	<style type="text/css">
+		table{border-collapse:collapse;}
+		td{padding:10px;border:1px solid #000}
+		.row1{background-color:#ff0;}
+		.row2{background-color:#fc6;}
+		.row3{background-color:#ccf;}
+	</style>
+</head>
+<body>
+	<table cellspacing="0">
+		<tr class="row1">
+			<td>Cell[1,1]</td>
+			<td colspan="2">Cell[2,1]</td>
+		</tr>
+		
+		<tr class="row2">
+			<td>Cell[1,2]</td>
+			<td rowspan="2">Cell[2,2]</td>
+			<td>Cell[3,2]</td>
+		</tr>
+		
+		<tr class="row3">
+			<td>Cell[1,3]</td>
+			<td>Cell[2,3]</td>
+		</tr>
+	</table>
+
+</body>
+</html>

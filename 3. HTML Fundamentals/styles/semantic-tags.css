@@ -1,0 +1,52 @@
+/** header */
+#header, header
+{
+	text-align:center;
+}
+
+/** navigation */
+#navigation ul, nav ul
+{
+	list-style-type:none;
+	display:block;	
+}
+
+#navigation ul li, nav ul li
+{
+	float:left;
+	margin: 5px;
+	padding:5px;
+}
+#navigation ul:after, nav ul:after
+{
+	clear:both;
+	display:block;
+	content:"";
+}
+/** sidebar */
+#sidebar, aside
+{
+	float:right;
+	width:10%;
+}
+
+#sidebar ul li, aside ul li
+{
+	font-size:1.5em;
+	margin:5px;
+	padding:5px;
+}
+
+
+/** content */
+#content, section
+{
+	display:block;
+	width:85%;
+}
+
+/** footer */
+#footer, footer
+{
+	text-align:center;
+}
