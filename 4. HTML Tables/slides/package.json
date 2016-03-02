@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "<!-- section start -->",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.8.0",
+    "openurl": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./node_modules/http-server/bin/http-server -p 12000 & node open.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TelerikAcademy/Web-Services-and-Cloud.git"
+  },
+  "keywords": [
+    "sammy.js",
+    "jquery",
+    "spa",
+    "single-page-applications"
+  ],
+  "author": "Doncho Minkov (DonchoMinkov@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TelerikAcademy/JavaScript-Applications/issues"
+  },
+  "homepage": "https://github.com/TelerikAcademy/JavaScript-Applications#readme"
+}
