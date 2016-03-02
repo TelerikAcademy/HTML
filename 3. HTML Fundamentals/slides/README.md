@@ -324,7 +324,7 @@ This one is <strong>more emphasized.</strong>
 # Unordered Lists: <ul> Tag
 - Create an **Unordered List** using **&#60;ul></ul&#62;**:
 - Attribute values for **type** are:
-  - <img class="slide-image" src="imgs/ul-bullets.png" style="top:25.5%; left:5%; width:75%; z-index:-1" />
+  - <img class="slide-image" src="imgs/bullets-ul.png" style="top:25.5%; left:5%; width:75%; z-index:-1" />
 
 
 
