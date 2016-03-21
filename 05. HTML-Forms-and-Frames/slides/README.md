@@ -1,9 +1,9 @@
 <!-- section start -->
 <!-- attr: { id:'', class:'slide-title', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # HTML Forms and Frames
-<img class="slide-image" src="imgs/pic00.png" style="top:35%; left:85%; width:25%; z-index:-1" />
-<img class="slide-image" src="imgs/pic01.png" style="top:55%; left:50%; width:30.50%; z-index:-1" />
-<img class="slide-image" src="imgs/pic02.png" style="top:55%; left:15%; width:25%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:35%; left:85%; width:25%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic01.png" style="top:55%; left:50%; width:30.50%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic02.png" style="top:55%; left:15%; width:25%; z-index:-1" /> -->
 
 
 
@@ -20,7 +20,7 @@
   - Hidden Fields
   - Sliders and Spinboxes
   - Validation Fields
-<img class="slide-image" src="imgs/pic03.png" style="top:20%; left:76.72%; width:24.24%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic03.png" style="top:20%; left:76.72%; width:24.24%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
@@ -28,20 +28,20 @@
 - HTML Frames
   - Frame and **noframe** tags
   - **iframe** tag
-<img class="slide-image" src="imgs/pic05.png" style="top:47.83%; left:21.52%; width:20.62%; z-index:-1" />
-<img class="slide-image" src="imgs/pic06.png" style="top:29.74%; left:57.08%; width:41.32%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic05.png" style="top:47.83%; left:21.52%; width:20.62%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic06.png" style="top:29.74%; left:57.08%; width:41.32%; z-index:-1" /> -->
 
 
 
 
 <!-- section start -->
 <!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# HTML Forms
-## Entering User Data from a Web Page
-<img class="slide-image" src="imgs/pic07.png" style="top:55%; left:40.60%; width:22%; z-index:-1" />
-<img class="slide-image" src="imgs/pic08.png" style="top:4.94%; left:74.38%; width:25.12%; z-index:-1" />
-<img class="slide-image" src="imgs/pic09.png" style="top:29.97%; left:92.63%; width:5.29%; z-index:-1" />
-<img class="slide-image" src="imgs/pic10.png" style="top:15.26%; left:8.71%; width:14.10%; z-index:-1" />
+<!-- # HTML Forms
+## Entering User Data from a Web Page -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic07.png" style="top:55%; left:40.60%; width:22%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic08.png" style="top:4.94%; left:74.38%; width:25.12%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic09.png" style="top:29.97%; left:92.63%; width:5.29%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic10.png" style="top:15.26%; left:8.71%; width:14.10%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
@@ -53,7 +53,7 @@
   - **Menus**, **Sliders**, etc…
 - Check Google, Yahoo, Facebook
   - Google search field is a simple **Textfield**
-<img class="slide-image" src="imgs/pic11.png" style="top:32.62%; left:80.00%; width:20.28%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic11.png" style="top:32.62%; left:80.00%; width:20.28%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
@@ -95,9 +95,9 @@
 <input type="password" name="pass" />
 ```
 
-<img class="slide-image" src="imgs/pic12.png" style="top:13%; left:69.24%; width:25%; z-index:-1" />
-<img class="slide-image" src="imgs/pic13.png" style="top:30.63%; left:86.08%; width:20%; z-index:-1" />
-<img class="slide-image" src="imgs/pic14.png" style="top:68%; left:78.79%; width:25%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic12.png" style="top:13%; left:69.24%; width:25%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic13.png" style="top:30.63%; left:86.08%; width:20%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic14.png" style="top:68%; left:78.79%; width:25%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 36px' } -->
@@ -138,8 +138,8 @@
 <input type="radio" name="city" value="Ruse" />
 ```
 
-<img class="slide-image" src="imgs/pic15.png" style="top:14%; left:47.72%; width:15%; z-index:-1" />
-<img class="slide-image" src="imgs/pic16.png" style="top:35%; left:44.91%; width:25%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic15.png" style="top:14%; left:47.72%; width:15%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic16.png" style="top:35%; left:44.91%; width:25%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
@@ -164,8 +164,8 @@
 </select>
 ```
 
-<img class="slide-image" src="imgs/pic17.png" style="top:45.84%; left:95.44%; width:10.80%; z-index:1" />
-<img class="slide-image" src="imgs/pic18.png" style="top:11.46%; left:79.69%; width:24.35%; z-index:1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic17.png" style="top:45.84%; left:95.44%; width:10.80%; z-index:1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic18.png" style="top:11.46%; left:79.69%; width:24.35%; z-index:1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
@@ -197,7 +197,7 @@
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
 # Fieldsets
-- **Fieldsets**are used to enclose a group of related form fields:
+- **Fieldsets** are used to enclose a group of related form fields:
 ```html
 <form method="post" action="form.aspx">
    <fieldset>
@@ -213,28 +213,28 @@
    </fieldset>
 </form>
 ```
-- The **<legend>**is the fieldset's title
+- The **&lt;legend&gt;** is the fieldset's title
 
 
 <!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# HTML Forms <br /> Inputs Fields
-## [Live Demo]()
-<img class="slide-image" src="imgs/pic19.png" style="top:11.46%; left:7%; width:21.16%; z-index:-1" />
-<img class="slide-image" src="imgs/pic20.png" style="top:50.25%; left:8%; width:21.16%; z-index:-1" />
-<img class="slide-image" src="imgs/pic21.png" style="top:9.99%; left:78%; width:21.16%; z-index:-1" />
-<img class="slide-image" src="imgs/pic22.png" style="top:52.75%; left:80%; width:21.16%; z-index:-1" />
-<img class="slide-image" src="imgs/pic23.png" style="top:62.44%; left:39%; width:28.21%; z-index:-1" />
-<img class="slide-image" src="imgs/pic24.png" style="top:7.93%; left:47%; width:12.64%; z-index:-1" />
+<!-- # HTML Forms <br /> Inputs Fields
+## [Live Demo]() -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic19.png" style="top:11.46%; left:7%; width:21.16%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic20.png" style="top:50.25%; left:8%; width:21.16%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic21.png" style="top:9.99%; left:78%; width:21.16%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic22.png" style="top:52.75%; left:80%; width:21.16%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic23.png" style="top:62.44%; left:39%; width:28.21%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic24.png" style="top:7.93%; left:47%; width:12.64%; z-index:-1" /> -->
 
 
 
 
 <!-- section start -->
 <!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Sliders and Spinboxes
-## Lets Make It Spin
-<img class="slide-image" src="imgs/pic25.png" style="top:55%; left:22.46%; width:22.92%; z-index:-1" />
-<img class="slide-image" src="imgs/pic26.png" style="top:55%; left:62.38%; width:22.92%; z-index:-1" />
+<!-- # Sliders and Spinboxes
+## Lets Make It Spin -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic25.png" style="top:55%; left:22.46%; width:22.92%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic26.png" style="top:55%; left:62.38%; width:22.92%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
@@ -246,17 +246,17 @@
 <input type="range" min="0" max="100" />
 <input type="number" min="0" max="100" />
 ```
-  - Have some **differences**on **different browsers**
+  - Have some **differences** on **different browsers**
   - Spinboxes do not work on **Firefox**
     - Shown as regular textboxes
 
 
 <!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Sliders and Spinboxes
-## [Live Demo]()
-<img class="slide-image" src="imgs/pic27.png" style="top:55%; left:5%; width:25%; z-index:-1" />
-<img class="slide-image" src="imgs/pic28.png" style="top:55%; left:80%; width:25%; z-index:-1" />
-<img class="slide-image" src="imgs/pic29.png" style="top:55%; left:35%; width:35%; z-index:-1" />
+<!-- # Sliders and Spinboxes
+## [Live Demo]() -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic27.png" style="top:55%; left:5%; width:25%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic28.png" style="top:55%; left:80%; width:25%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic29.png" style="top:55%; left:35%; width:35%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
@@ -279,29 +279,29 @@
 - **Email** – provides a simple validation for email
   - Can be passed a pattern for validation
   - In a mobile device brings the email keyboard
-  
+
 ```html
 <input type="email" required="true" pattern="[^ @]*@[^ @].[^ @]"/>
 ```
 - **URL** – has validation for url
   - In a mobile device brings the url keyboard
-  
+
 ```html
 <input type="url" required="true" />
 ```
 - **Telephone**
   - Brings the numeric keyboard
-  
+
 ```html
 <input type="tel" required="true" />
 ```
 
 
 <!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# HTML Forms Validation
-## [Live Demo]()
-<img class="slide-image" src="imgs/pic30.png" style="top:50%; left:14.03%; width:25%; z-index:-1" />
-<img class="slide-image" src="imgs/pic31.png" style="top:50%; left:65.50%; width:25%; z-index:-1" />
+<!-- # HTML Forms Validation
+## [Live Demo]() -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:50%; left:14.03%; width:25%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic31.png" style="top:50%; left:65.50%; width:25%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
@@ -319,20 +319,20 @@
 
 
 <!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Tab Index
-## [Live Demo]()
-<img class="slide-image" src="imgs/pic32.png" style="top:50%; left:60%; width:29.97%; z-index:-1" />
-<img class="slide-image" src="imgs/pic33.png" style="top:50%; left:13.10%; width:29.97%; z-index:-1" />
+<!-- # Tab Index
+## [Live Demo]() -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic32.png" style="top:50%; left:60%; width:29.97%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic33.png" style="top:50%; left:13.10%; width:29.97%; z-index:-1" /> -->
 
 
 
 
 <!-- section start -->
 <!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# HTML Frames
-## &#60;frameset>, &#60;frame> and &#60;iframe>
-<img class="slide-image" src="imgs/pic34.png" style="top:55%; left:5%; width:42.31%; z-index:-1" />
-<img class="slide-image" src="imgs/pic35.png" style="top:55%; left:59%; width:43.86%; z-index:-1" />
+<!-- # HTML Frames
+## &#60;frameset>, &#60;frame> and &#60;iframe> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic34.png" style="top:55%; left:5%; width:42.31%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic35.png" style="top:55%; left:59%; width:43.86%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
@@ -341,7 +341,7 @@
 - The page can be split into separate views (frames) horizontally and vertically
 - Frames were popular in the early ages of HTML development, but now their usage is rejected
 - Frames are not supported by all user agents (browsers, search engines, etc.)
-  - A **<noframes>**element is used to provide content for non-compatible agents.
+  - A **&lt;noframes&gt;** element is used to provide content for non-compatible agents.
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
@@ -364,17 +364,28 @@
 
 ```html
 <iframe name="iframeYoutube"
-        width="600" 
-        height="400" 
-        src="https://www.youtube.com/" 
-        frameborder="yes" 
+        width="600"
+        height="400"
+        src="https://www.youtube.com/"
+        frameborder="yes"
         scrolling="yes">
 </iframe>
 ```
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# HTML Forms and Frames
+<!-- # HTML Forms and Frames
+## Questions? -->
 
-<img class="slide-image" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/questions-blue.png" style="width:80%; top:15%; left:10%" />
-<div style="position: absolute; bottom: 1em; right: 0; font-size: 26px;">http://academy.telerik.com</div>
+<!-- <img class="slide-image" showInPresentation="true" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/questions-blue.png" style="width:60%; top:15%; left:10%" /> -->
+
+<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+# Free Trainings @ Telerik Academy
+- Fundamentals of C# ProgrammingTrack of Courses
+    - [html.telerik.com](http://academy.telerik.com/student-courses/web-design-and-ui/about)
+  - Telerik Software Academy
+    - [academy.telerik.com](academy.telerik.com)
+  - Telerik Academy @ Facebook
+    - [facebook.com/TelerikAcademy](facebook.com/TelerikAcademy)
+  - Telerik Academy Learning System
+    - [telerikacademy.com](telerikacademy.com)

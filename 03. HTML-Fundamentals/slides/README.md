@@ -2,10 +2,10 @@
 <!-- attr: { id:'', class:'slide-title', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # HTML 5
 ## The past, the present, the future
-<img class="slide-image" src="imgs/pic00.png" style="top:75%; left:82.34%; width:12%; z-index:-1" />
-<img class="slide-image" src="imgs/pic01.png" style="top:60%; left:50%; width:17.69%; z-index:-1" />
-<img class="slide-image" src="imgs/pic02.png" style="top:60%; left:5%; width:30%; z-index:-1" />
-<img class="slide-image" src="imgs/pic03.png" style="top:15%; left:5%; width:18.93%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:75%; left:82.34%; width:12%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic01.png" style="top:60%; left:50%; width:17.69%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic02.png" style="top:60%; left:5%; width:30%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic03.png" style="top:15%; left:5%; width:18.93%; z-index:-1" /> -->
 
 
 
@@ -19,15 +19,15 @@
 - HTML Common Elements
 - Section Elements
 - Semantic Structural Tags
-<img class="slide-image" src="imgs/pic04.png" style="top:40.55%; left:74.54%; width:28.21%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic04.png" style="top:40.55%; left:74.54%; width:28.21%; z-index:-1" /> -->
 
 
 
 
 <!-- section start -->
 <!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Hypertext Markup Language
-<img class="slide-image" src="imgs/pic05.png" style="top:45%; left:35%; width:30%; z-index:-1" />
+<!-- # Hypertext Markup Language -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic05.png" style="top:45%; left:35%; width:30%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
@@ -46,7 +46,7 @@
 # Creating HTML Pages
 - An HTML document must have an **.htm** or **.html** file extension
 - HTML files can be created with text editors:
-  - _Note_pad, _Note_pad++, Sublime Text
+  - _Notepad_, _Notepad++_, Sublime Text
 - Or HTML editors (WYSIWYG Editors):
   - Microsoft WebMatrix
   - Microsoft Expression Web
@@ -60,26 +60,26 @@
 - 1993 – HTML (first public version, published at IETF)
 - 1993 – HTML 2 draft
 - 1995 – HTML 2 – W3C
-- 1995 – HTML 3 draft 
+- 1995 – HTML 3 draft
 - 1997 – HTML 3.2 – “Wilbur”
-- 1997 – HTML 4 – ”Cougar” – CSS 
+- 1997 – HTML 4 – ”Cougar” – CSS
 - 1999 – HTML 4.01 (final)
-- 2000 – XHTML draft 
+- 2000 – XHTML draft
 - 2001 – XHTML  (final)
 - 2008 – HTML5 / XHTML5 draft
 - 2011 – feature complete HTML5
 - http://en.wikipedia.org/wiki/HTML5#Plan_2014
-<img class="slide-image" src="imgs/pic06.png" style="top:23.80%; left:67.37%; width:30.85%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic06.png" style="top:23.80%; left:67.37%; width:30.85%; z-index:-1" /> -->
 
 
 
 
 <!-- section start -->
 <!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# HTML Terminology
-## Tags, Attributes and Elements
-<img class="slide-image" src="imgs/pic07.png" style="top:55%; left:7%; width:38%; z-index:-1" />
-<img class="slide-image" src="imgs/pic08.png" style="top:55%; left:52%; width:41.5%; z-index:-1" />
+<!-- # HTML Terminology
+## Tags, Attributes and Elements -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic07.png" style="top:55%; left:7%; width:38%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic08.png" style="top:55%; left:52%; width:41.5%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
@@ -90,7 +90,7 @@
     - The smallest piece in HTML
   - Attributes
     - Properties of the tag
-    - Size, color, etc… 
+    - Size, color, etc…
   - Elements
     - Combination of opening, closing tag and attributes
 
@@ -165,20 +165,20 @@
 
 
 <!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# HTML Terminology
-## [Live Demo]()
-<img class="slide-image" src="imgs/pic09.png" style="top:55%; left:10%; width:34.77%; z-index:-1" />
-<img class="slide-image" src="imgs/pic10.png" style="top:55%; left:57%; width:38%; z-index:-1" />
+<!-- # HTML Terminology
+## [Live Demo]() -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic09.png" style="top:55%; left:10%; width:34.77%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic10.png" style="top:55%; left:57%; width:38%; z-index:-1" /> -->
 
 
 
 
 <!-- section start -->
 <!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# HTML Document Structure
-## HTML Document, Doctype, Head, Body
-<img class="slide-image" src="imgs/pic11.png" style="top:55%; left:9.36%; width:40%; z-index:-1" />
-<img class="slide-image" src="imgs/pic12.png" style="top:55%; left:65.10%; width:30%; z-index:-1" />
+<!-- # HTML Document Structure
+## HTML Document, Doctype, Head, Body -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic11.png" style="top:55%; left:9.36%; width:40%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic12.png" style="top:55%; left:65.10%; width:30%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
@@ -206,7 +206,7 @@
   - Declare encodings
   - Etc..
   - The **title** tag - the text in the tab of a browser
-<img class="slide-image" src="imgs/pic13.png" style="top:37.91%; left:58.01%; width:25%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic13.png" style="top:37.91%; left:58.01%; width:25%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
@@ -225,10 +225,10 @@
 
 
 <!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# HTML Document Structure
-## [Live Demo]()
-<img class="slide-image" src="imgs/pic14.png" style="top:55%; left:7%; width:34.38%; z-index:-1" />
-<img class="slide-image" src="imgs/pic15.png" style="top:55%; left:56%; width:36.81%; z-index:-1" />
+<!-- # HTML Document Structure
+## [Live Demo]() -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic14.png" style="top:55%; left:7%; width:34.38%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic15.png" style="top:55%; left:56%; width:36.81%; z-index:-1" /> -->
 
 
 
@@ -316,7 +316,7 @@ This one is <strong>more emphasized.</strong>
 ```
 - Attribute values for **type** are **1**, **A**, **a**, **I**, or **i**
 
-<img class="slide-image" src="imgs/bullets.png" style="top:55%; left:7%; width:75%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/bullets.png" style="top:55%; left:7%; width:75%; z-index:-1" /> -->
 
 
 
@@ -324,7 +324,7 @@ This one is <strong>more emphasized.</strong>
 # Unordered Lists: <ul> Tag
 - Create an **Unordered List** using **&#60;ul></ul&#62;**:
 - Attribute values for **type** are:
-  - <img class="slide-image" src="imgs/bullets-ul.png" style="top:25.5%; left:5%; width:75%; z-index:-1" />
+  - <!-- <img class="slide-image" showInPresentation="true" src="imgs/bullets-ul.png" style="top:25.5%; left:5%; width:75%; z-index:-1" /> -->
 
 
 
@@ -345,66 +345,66 @@ This one is <strong>more emphasized.</strong>
 ```
 
 <!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# HTML Common Elements
-## Live Demo
+<!-- # HTML Common Elements
+## Live Demo -->
 
 <!-- section start -->
 <!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Section Elements
-## The **&#60;div&#62;** and The **&#60;span&#62;**
-<img class="slide-image" src="imgs/pic16.png" style="top:55%; left:58.62%; width:42.31%; z-index:-1" />
-<img class="slide-image" src="imgs/pic17.png" style="top:55%; left:8.59%; width:40.87%; z-index:-1" />
+<!-- # Section Elements
+## The **&#60;div&#62;** and The **&#60;span&#62;** -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic16.png" style="top:55%; left:58.62%; width:42.31%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic17.png" style="top:55%; left:8.59%; width:40.87%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # The <div> Tag
-- &#60;div&#62; creates logical divisions within a page <!-- .element: style="width: 60%" --> 
+- &#60;div&#62; creates logical divisions within a page <!-- .element: style="width: 60%" -->
   - Block element
   - Used with CSS
-  
+
 - _Example_:
 
 ```html
 <div style="font-size:24px; color:red">DIV example</div>
-<p>This one is 
+<p>This one is
     <span style="color:red; font-weight:bold">only a test</span>.
 </p>
 ```
 
-<img class="slide-image" src="imgs/pic18.png" style="top:20.28%; left:53.12%; width:45.91%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic18.png" style="top:20.28%; left:53.12%; width:45.91%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# **&#60;DIV&#62;**
-## [Live Demo]()
-<img class="slide-image" src="imgs/pic19.png" style="top:55%; left:15%; width:42.31%; z-index:-1" />
-<img class="slide-image" src="imgs/pic21.png" style="top:55%; left:65%; width:17.53%; z-index:-1" />
+<!-- # **&#60;DIV&#62;**
+## [Live Demo]() -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic19.png" style="top:55%; left:15%; width:42.31%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic21.png" style="top:55%; left:65%; width:17.53%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # The <span> Tag
 - Inline style element
-- Useful for modifying a specific portion of text 
+- Useful for modifying a specific portion of text
   - Don't create a separate area			 (paragraph) in the document
 - Mainly used to style parts of a text
 
 ```html
-<p>This one is 
+<p>This one is
     <span style="color:red; font-weight:bold">only a test</span>.
 </p>
-<p>This one is another 
+<p>This one is another
     <span style="font-size:32px; font-weight:bold">TEST</span>.
 </p>
 ```
 
-<img class="slide-image" src="imgs/pic22.png" style="top:25%; left:86.35%; width:15%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic22.png" style="top:25%; left:86.35%; width:15%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# **&#60;SPAN&#62;**
-## [Live Demo]()
-<img class="slide-image" src="imgs/pic23.png" style="top:55%; left:63.05%; width:29.5%; z-index:-1" />
-<img class="slide-image" src="imgs/pic24.png" style="top:55%; left:3.74%; width:55.59%; z-index:-1" />
+<!-- # **&#60;SPAN&#62;**
+## [Live Demo]() -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic23.png" style="top:55%; left:63.05%; width:29.5%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic24.png" style="top:55%; left:3.74%; width:55.59%; z-index:-1" /> -->
 
 <!-- section start -->
 <!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
@@ -413,7 +413,7 @@ This one is <strong>more emphasized.</strong>
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # The Structure of a Web Page
 - A sample layout structure of a Web Page
-<img class="slide-image" src="imgs/pic25.png" style="top:21.16%; left:12.09%; width:83.01%; z-index:-1" />
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic25.png" style="top:21.16%; left:12.09%; width:83.01%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
@@ -436,8 +436,8 @@ This one is <strong>more emphasized.</strong>
 
 <!-- section start -->
 <!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# The HTML 4 Way
-## [Live Demo]()
+<!-- # The HTML 4 Way
+## [Live Demo]() -->
 
 
 
@@ -463,9 +463,9 @@ This one is <strong>more emphasized.</strong>
 
 
 <!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Semantic Structural Tags
-## [Live Demo]()
-<img class="slide-image" src="imgs/pic26.png" style="top:55%; left:30%; width:40%; z-index:-1" />
+<!-- # Semantic Structural Tags
+## [Live Demo]() -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic26.png" style="top:55%; left:30%; width:40%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
@@ -479,6 +479,18 @@ This one is <strong>more emphasized.</strong>
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# HTML 5
-<img class="slide-image" src="https://github.com/TelerikAcademy/Common/raw/master/revealjs-theme/css/imgs/cat-questions.png" style="width:80%; top:15%; left:10%" />
-<div style="position: absolute; bottom: 1em; right: 0; font-size: 26px;">http://academy.telerik.com</div>
+<!-- # HTML Fundamentals
+## Questions? -->
+
+<!-- <img class="slide-image" showInPresentation="true" src="https://github.com/TelerikAcademy/Common/raw/master/revealjs-theme/css/imgs/cat-questions.png" style="width:80%; top:15%; left:10%" /> -->
+
+<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+# Free Trainings @ Telerik Academy
+- Fundamentals of C# ProgrammingTrack of Courses
+    - [html.telerik.com](http://academy.telerik.com/student-courses/web-design-and-ui/about)
+  - Telerik Software Academy
+    - [academy.telerik.com](academy.telerik.com)
+  - Telerik Academy @ Facebook
+    - [facebook.com/TelerikAcademy](facebook.com/TelerikAcademy)
+  - Telerik Academy Learning System
+    - [telerikacademy.com](telerikacademy.com)
