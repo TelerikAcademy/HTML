@@ -4,7 +4,7 @@ Course Program, Examination, Trainers
 
 ## Resources
 
-
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="18"/>Slides](https://rawgit.com/TelerikAcademy/HTML/master/00. Course-Introduction/slides/index.html) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/00. Course-Introduction/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/00. Course-Introduction/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="15"> Videos](/00. Course-Introduction/VIDEOS.md)
 
 ## Table of Contents
 - [HTML Course Curriculum](slides/README.md#curriculum)

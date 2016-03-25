@@ -4,7 +4,7 @@ Tables and why they are not used anymore
 
 ## Resources
 
-
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="18"/>Slides](https://rawgit.com/TelerikAcademy/HTML/master/03. HTML-Tables/slides/index.html) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/03. HTML-Tables/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/03. HTML-Tables/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="15"> Videos](/03. HTML-Tables/VIDEOS.md)
 
 ## Table of Contents
 - [HTML Tables](slides/README.md#/tables)

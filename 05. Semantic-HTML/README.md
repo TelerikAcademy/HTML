@@ -4,7 +4,7 @@ HTML5 and semantics
 
 ## Resources
 
-
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="18"/>Slides](https://rawgit.com/TelerikAcademy/HTML/master/05. Semantic-HTML/slides/index.html) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/05. Semantic-HTML/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/05. Semantic-HTML/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="15"> Videos](/05. Semantic-HTML/VIDEOS.md)
 
 ## Table of Contents
 - [Web Page](slides/README.md#/webpage)

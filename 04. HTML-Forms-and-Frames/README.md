@@ -4,7 +4,7 @@ HTML forms and sending data over the web
 
 ## Resources
 
-
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="18"/>Slides](https://rawgit.com/TelerikAcademy/HTML/master/04. HTML-Forms-and-Frames/slides/index.html) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/04. HTML-Forms-and-Frames/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/04. HTML-Forms-and-Frames/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="15"> Videos](/04. HTML-Forms-and-Frames/VIDEOS.md)
 
 ## Table of Contents
 - [HTML Forms](slides/README.md#/form)
