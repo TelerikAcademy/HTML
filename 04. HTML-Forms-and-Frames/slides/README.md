@@ -11,15 +11,15 @@
 <!-- section start -->
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # Table of Contents
-- HTML Forms
-  - Form Fields and Fieldsets
-  - Text Boxes
-  - Buttons
-  - Checkboxes and Radio Buttons
-  - Select Fields
-  - Hidden Fields
-  - Sliders and Spinboxes
-  - Validation Fields
+- [HTML Forms](#/form)
+  - [Form Fields and Fieldsets](#/field)
+  - [Buttons](#/button)
+  - [Checkboxes and Radio Buttons](#/checkbox)
+  - [Select Fields](#/select)
+  - [Hidden Fields](#/hidden)
+  - [Sliders and Spinboxes](#/slider)
+  - [Validation Fields](#/validation)
+- [HTML Frames](#/frame)  
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic03.png" style="top:20%; left:76.72%; width:24.24%; z-index:-1" /> -->
 
 
@@ -44,8 +44,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic10.png" style="top:15.26%; left:8.71%; width:14.10%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# What are HTML Forms?
+<!-- attr: { id:'form', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+# <a id="form"></a>What are HTML Forms?
 - The **primary** method for gathering data from site visitors
 - HTML Forms can contain
   - **Text** fields for the user to type
@@ -75,8 +75,8 @@
 <div class="fragment balloon" style="top:30%; left:41.43%; width:58.60%">The "method" attribute tells how the form data should be sent – via GET or POST request</div>
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Text Fields
+<!-- attr: { id:'field', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+# <a id="field"></a>Text Fields
 - **Single-line** text input fields:
 
 ```html
@@ -100,8 +100,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic14.png" style="top:68%; left:78.79%; width:25%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 36px' } -->
-# Buttons
+<!-- attr: { id:'button', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 36px' } -->
+# <a id="button"></a>Buttons
 - **Reset** button – brings the form to its initial state
 ```html
 <input type="reset" name="resetBtn"   
@@ -122,8 +122,8 @@
 ```
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Checkboxes and Radio Buttons
+<!-- attr: { id:'checkbox', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+# <a id="checkbox"></a>Checkboxes and Radio Buttons
 - **Checkboxes**:
 ```html
 <input type="checkbox" name="fruit" value="apple" />
@@ -142,8 +142,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic16.png" style="top:35%; left:44.91%; width:25%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Select Fields
+<!-- attr: { id:'select', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+# <a id="select"></a>Select Fields
 - **Dropdown** menus:
 
 ```html
@@ -168,8 +168,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic18.png" style="top:11.46%; left:79.69%; width:24.35%; z-index:1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# Hidden Fields
+<!-- attr: { id:'hidden', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="hidden"></a>Hidden Fields
 - **Hidden** fields contain invisible data
 ```html
 <input type="hidden" name="Account"
@@ -237,8 +237,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic26.png" style="top:55%; left:62.38%; width:22.92%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# Range and Spinbox
+<!-- attr: { id:'slider', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="slider"></a>Range and Spinbox
 - Restricts users to enter only numbers
   - Additional attributes **min**, **max** and **step** and **value**
   - Can become **Spinbox** or **Slider**, depending on the input type
@@ -274,8 +274,8 @@
   - The field is required to be filled/selected
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 40px' } -->
-# Input Fields with Validation
+<!-- attr: { id:'validation', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 40px' } -->
+# <a id="validation"></a>Input Fields with Validation
 - **Email** – provides a simple validation for email
   - Can be passed a pattern for validation
   - In a mobile device brings the email keyboard
@@ -335,8 +335,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic35.png" style="top:55%; left:59%; width:43.86%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# HTML Frames
+<!-- attr: { id:'frame', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="frame"></a>HTML Frames
 - **Frames** provide a way to show multiple HTML documents in a single Web page
 - The page can be split into separate views (frames) horizontally and vertically
 - Frames were popular in the early ages of HTML development, but now their usage is rejected

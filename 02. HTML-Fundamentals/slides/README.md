@@ -13,12 +13,12 @@
 <!-- section start -->
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # Table of Contents
-- Hypertext Markup Language
-- HTML Concepts
-- HTML Document Structure
-- HTML Common Elements
-- Section Elements
-- Semantic Structural Tags
+- [Hypertext Markup Language](#/html)
+- [HTML Terminology](#/terminology)
+- [HTML Document Structure](#/structure)
+- [HTML Common Elements](#/commonelements)
+- [Section Elements](#/sectionelements)
+- [Semantic Structural Tags](#/semantic)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic04.png" style="top:40.55%; left:74.54%; width:28.21%; z-index:-1" /> -->
 
 
@@ -30,8 +30,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic05.png" style="top:45%; left:35%; width:30%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# Hypertext Markup Language
+<!-- attr: { id:'html', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="html"></a>Hypertext Markup Language
 - HTML – **H**yper **T**ext **M**arkup **L**anguage
   - A notation for describing
     - **document structure** (semantic markup)
@@ -82,8 +82,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic08.png" style="top:55%; left:52%; width:41.5%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# HTML Terminology
+<!-- attr: { id:'terminology', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="terminology"></a>HTML Terminology
 - Concepts in HTML
   - Tags
     - Opening tag and closing tag
@@ -181,8 +181,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic12.png" style="top:55%; left:65.10%; width:30%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# HTML Document Structure
+<!-- attr: { id:'structure', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="structure"></a>HTML Document Structure
 - Some elements are essential to each HTML Document:
     - **html**, **head**, **body**, **doctype**
 - The **html** element
@@ -255,8 +255,8 @@
 | &#60;em&#62;&#60;/em&#62;  | <em>emphasized</em>    |
 | &#60;pre&#62;&#60;/pre&#62;  | <pre>preformatted text</pre>   |
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# Some Simple Tags
+<!-- attr: { id:'commonelements', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="commonelements"></a>Some Simple Tags
 - Hyperlink Tags
 
 ```html
@@ -356,8 +356,8 @@ This one is <strong>more emphasized.</strong>
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic17.png" style="top:55%; left:8.59%; width:40.87%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# The <div> Tag
+<!-- attr: { id:'sectionelements', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+# <a id="sectionelements"></a>The <div> Tag
 - &#60;div&#62; creates logical divisions within a page <!-- .element: style="width: 60%" -->
   - Block element
   - Used with CSS
@@ -407,8 +407,8 @@ This one is <strong>more emphasized.</strong>
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic24.png" style="top:55%; left:3.74%; width:55.59%; z-index:-1" /> -->
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Semantic Structural Tags
+<!-- attr: { id:'semantic', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+# <a id="semantic"></a>Semantic Structural Tags
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # The Structure of a Web Page

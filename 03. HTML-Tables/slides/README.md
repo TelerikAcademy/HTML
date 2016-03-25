@@ -13,15 +13,16 @@
 <!-- section start -->
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # Contents
-- HTML Tables
-  - Simple Tables
-  - Complete HTML Tables
-  - Data cells and Header cells
-- Nested Tables
-- Complex tables
-  - Cells Width
-  - Cell Spacing and Padding
-  - Column and Row Span
+- [HTML Tables](#/tables)
+  - [Simple Tables](#/simpletables)
+  - [Data cells and Header cells](#/headers)
+  - [Complete HTML Tables](#/completetables)
+- [Nested Tables](#/nestedtables)
+- [Complex tables](#/comlextables)
+  - [Cells Width](#/cellswidth)
+  - [Cell Spacing and Padding](#/cells)
+  - [Column and Row Span](#/spans)
+
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic05.png" style="top:21.83%; left:69.10%; width:37.47%; z-index:-1" /> -->
 
 
@@ -35,8 +36,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic08.png" style="top:56.78%; left:50%; width:37.02%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# HTML Tables
+<!-- attr: { id:'tables', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="tables"></a>HTML Tables
 - Tables represent tabular data
   - A table consists of one or several rows
   - Each row has one or more columns
@@ -48,8 +49,8 @@
   - Use CSS floats and positioning styles instead
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# Simple HTML Tables – _Example_
+<!-- attr: { id:'simpletables', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="simpletables"></a>Simple HTML Tables – _Example_
 
 ```html
 <table cellspacing="0" cellpadding="5">
@@ -80,8 +81,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic12.png" style="top:50.84%; left:64.50%; width:37.02%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# Data Cells and Header Cells
+<!-- attr: { id:'headers', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="headers"></a>Data Cells and Header Cells
 - Two kinds of cells in HTML tables
   - `Data` cells – containing the table data
   - `Header` cells – used for the column names or some more important cells
@@ -118,8 +119,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic15.png" style="top:60%; left:75%; width:15%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# Complete HTML Tables
+<!-- attr: { id:'completetables', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="completetables"></a>Complete HTML Tables
 - Table rows split into three semantic sections: `header`, `body` and `footer`
   - `<thead>` denotes table header and contains `<th>` elements, instead of `<td>` elements
   - `<tbody>` denotes collection of table rows that contain the very data
@@ -187,8 +188,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic22.png" style="top:55%; left:62.31%; width:30%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Nested Tables
+<!-- attr: { id:'nestedtables', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+# <a id="nestedtables"></a>Nested Tables
 - Table "cells" (**&#60;td>**) can contain `nested` tables (tables within tables):
 
 ```html
@@ -220,14 +221,14 @@
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # Complex Tables
+<!-- attr: { id:'comlextables', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- <a id="comlextables"></a># Complex Tables
 ## With Padding, Spacing and Stuff -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic28.png" style="top:55%; left:30%; width:40%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# Cell Spacing and Padding
+<!-- attr: { id:'cells', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="cells"></a>Cell Spacing and Padding
 <div class="balloon" style="left:15%">cell spacing</div> <div class="balloon" style="left:60%">cell padding</div>
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/cell-spacing-padding.png" style="top:25%; left:10%; width:80%; z-index:-1" /> -->
 
@@ -298,8 +299,8 @@
 <!-- # Column and Row Span -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/rowspan-colspan.png" style="top:20%; left:12.5%; width:75%; z-index:-1" /> -->
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# Column and Row Span – _Example_
+<!-- attr: { id:'spans', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="spans"></a>Column and Row Span – _Example_
 
 ```html
 <table cellspacing="0">

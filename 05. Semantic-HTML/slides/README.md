@@ -12,14 +12,14 @@
 <!-- section start -->
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # Table of Contents
-- Web Page
-  - HTML, CSS and JavaScript
-- The Semantic HTML
-- HTML5 Semantic Tags
-- Other Semantics
-- Accessibility
-- Search Engine Optimization
-- Structured Data Markup
+- [Web Page](#/webpage)
+  - [HTML, CSS and JavaScript](#/html)
+- [The Semantic HTML](#/semantic)
+- [HTML5 Semantic Tags](#/html5)
+- [Other Semantics](#/other)
+- [Accessibility](#/access)
+- [Search Engine Optimization](#/seo)
+- [Structured Data Markup](#/datamarkup)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic03.png" style="top:28.21%; left:66.06%; width:36.93%; z-index:-1" /> -->
 
 
@@ -31,8 +31,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic04.png" style="top:50%; left:30%; width:40%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# The Elements of a Web Page
+<!-- attr: { id:'webpage', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+# <a id="webpage"></a>The Elements of a Web Page
 - A Web page consists of:
   - HTML markup
   - CSS rules
@@ -44,8 +44,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic05.png" style="top:20%; left:57.19%; width:38.68%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# The Elements of a Web Page: HTML Markup
+<!-- attr: { id:'html', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+# <a id="html"></a>The Elements of a Web Page: HTML Markup
 - The HTML is used to define <br /> the **content** of a Web page
   - Not the layout
   - Not the decorations
@@ -98,8 +98,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic15.png" style="top:45%; left:60%; width:31%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Semantic HTML
+<!-- attr: { id:'semantic', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+# <a id="semantic"></a>Semantic HTML
 - **Semantic** HTML is:
   - The use of HTML markup to reinforce the semantics of the information in Web pages
     - Make the content understandable for computers
@@ -240,8 +240,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic26.png" style="top:55%; left:35%; width:30%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# Other Semantics
+<!-- attr: { id:'other', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="other"></a>Other Semantics
 - Headings
   - Always use headings (**&#60;h1&#62;** – **&#60;h6&#62;**) when you need a heading or title
     - Like in a MS Word document
@@ -272,8 +272,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic27.png" style="top:55%; left:20%; width:60%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# Accessibility
+<!-- attr: { id:'access', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="access"></a>Accessibility
 - Craft content minding disabled users
   - Blind - include text equivalents of images, use labels in forms
   - Colorblind - do not convey information using color only
@@ -310,8 +310,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic29.png" style="top:55%; left:50%; width:57%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# Search Engine Optimization
+<!-- attr: { id:'seo', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# <a id="seo"></a>Search Engine Optimization
 - Search engines use so-called “**crawlers**” to get the content of the page and index it
 - The crawlers weigh the data on the page
   - **&#60;title&#62;**, **page URL** and **headings** have great weight
@@ -330,8 +330,8 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:60%; left:20%; width:60%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 40px' } -->
-# Structured Data Markup
+<!-- attr: { id:'datamarkup', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 40px' } -->
+# <a id="datamarkup"></a>Structured Data Markup
 - A standard way to annotate your content so machines can understand it
 - Google (and other search engines) can
   - use that data to index your content better
