@@ -479,8 +479,7 @@ This one is <strong>more emphasized.</strong>
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-<!-- # HTML Fundamentals
-## Questions? -->
+<!-- # HTML Fundamentals -->
 
 <!-- <img class="slide-image" showInPresentation="true" src="https://github.com/TelerikAcademy/Common/raw/master/revealjs-theme/css/imgs/cat-questions.png" style="width:80%; top:15%; left:10%" /> -->
 
