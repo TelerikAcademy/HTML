@@ -1,20 +1,19 @@
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-title', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+<!-- attr: {  class:'slide-title', hasScriptWrapper: true } -->
 # Web Technologies Basics
 ## Concepts
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic00.png" style="top:40%; left:55%; width:45.84%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:40%; left:55%; width:45.84%; z-index:-1" /> -->
+
 <div class="signature">
-	<p class="signature-course"></p>
-	<p class="signature-initiative"></p>
-	<a href="" class="signature-link"></a>
+	<p class="signature-course">HTML Basics</p>
+	<p class="signature-initiative">Telerik Software Academy</p>
+	<a href="http://telerikacademy.com" class="signature-link">http://telerikacademy.com</a>
 </div>
 
 
-
-
 <!-- section start -->
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+<!-- attr: { hasScriptWrapper: true } -->
 # Table of Contents
 - [Web Sites and Web Applications](#/sites)
 - [Web 1.0, 2.0, 3.0](#/web)
@@ -26,102 +25,100 @@
 - [Service-Oriented Architecture (SOA)](#/soa)
 - [Cloud](#/cloud)
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic05.png" style="top:14.48%; left:52.66%; width:49.59%; z-index:-1" /> -->
-
-
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic05.png" style="top:14.48%; left:52.66%; width:49.59%; z-index:-1" /> -->
 
 
 <!-- section start -->
-<!-- attr: { id:'sites', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+<!-- attr: { id:'sites', class:'slide-section', hasScriptWrapper: true } -->
 # <a id="sites"></a>Web Sites and Web Applications
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic06.png" style="top:55%; left:28.51%; width:45%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic06.png" style="top:55%; left:28.51%; width:45%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'' } -->
+<!-- attr: { showInPresentation: true, style:'font-size: 0.9em' } -->
 # Web Page
-- **Document** or information resource that is suitable for the World Wide Web
-- Can be accessed through a web browser and displayed on a monitor or mobile device
-- This information is usually in HTML or XHTML format, and may provide navigation to other web pages via hypertext links
-- Web pages frequently refer to other resources such as style sheets (CSS), scripts (JavaScript) and images into their final presentation
+
+-	Web Pages
+	- Are **documents** or **information resources** that are suitable for the World Wide Web
+	- Can be accessed through a **web browser** and displayed on a monitor or a mobile device
+	- This information is usually in `HTML` or `XHTML` format, and may provide navigation to other web pages via **hypertext links**
+	- Web pages frequently refer to other resources such as **style sheets** (`CSS`), **scripts** (`JavaScript`) and **images** into their final presentation
 
 
-<!-- attr: { id:'web', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'' } -->
+<!-- attr: { id:'web' } -->
 # <a id="web"></a>Web Site
-- **Collection** of related web pages containing web resources (web pages, images, videos, CSS files, JS files or other digital assets)
-- Common navigation between web pages
-- A website is hosted on at least one web server
-- Accessible via a network (such as the Internet)
-- All publicly accessible websites collectively constitute the World Wide Web
+
+-	Web Sites
+	- Are **collections** of related web pages containing web resources (web pages, images, videos, CSS files, JS files or other digital assets)
+	- Have **common navigation** between web pages
+	- Are **hosted** on at least one **web server**
+	- Are accessible via a  network (such as the Internet)
+- **All publicly accessible websites** collectively constitute the **World Wide Web**
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+<!-- attr: { showInPresentation: true, hasScriptWrapper: true } -->
 # Web Application
-- Next level web sites
-- High interactivity
-- High accessibility (Cloud)
-- AJAX, Silverlight, Flash, Flex, etc.
-- Applications are usually broken into logical chunks called "tiers", where every tier is assigned a role
-- Desktop-like application in the web browser
-- Web applications on desktop (Windows 8)
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic07.png" style="top:13.00%; left:88.30%; width:15.87%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic08.png" style="top:15.98%; left:64.56%; width:17.63%; z-index:-1" /> -->
+-	Web Application
+	- Next level web sites
+	- High interactivity
+	- High accessibility (Cloud)
+	- AJAX, Silverlight, Flash, Flex, etc.
+	- Applications are usually broken into logical chunks called "tiers", where every tier is assigned a role
+	- Desktop-like application in the web browser
+
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic07.png" style="top:13.00%; left:88.30%; width:15.87%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic08.png" style="top:15.98%; left:64.56%; width:17.63%; z-index:-1" /> -->
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
-# Web Browsers andLayout Engines
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic09.png" style="top:55%; left:50.46%; width:12.61%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic10.png" style="top:55%; left:8.10%; width:13.35%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic11.png" style="top:55%; left:36.19%; width:12.61%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic12.png" style="top:55%; left:78.95%; width:15.03%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic13.png" style="top:55%; left:23.20%; width:11.34%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic14.png" style="top:55%; left:64.72%; width:12.61%; z-index:-1" /> -->
+<!-- attr: {  class:'slide-section', showInPresentation: true, hasScriptWrapper: true } -->
+<!-- # Web Browsers and Layout Engines -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic09.png" style="top:55%; left:50.46%; width:12.61%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic10.png" style="top:55%; left:8.10%; width:13.35%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic11.png" style="top:55%; left:36.19%; width:12.61%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic12.png" style="top:55%; left:78.95%; width:15.03%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic13.png" style="top:55%; left:23.20%; width:11.34%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic14.png" style="top:55%; left:64.72%; width:12.61%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'browsers', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'' } -->
+<!-- attr: { id:'browsers', showInPresentation: true } -->
 # <a id="browsers"></a>Web Browsers
-- Program designed to enable users to access, **retrieve and view documents** and other resources from the Web
+- A Web browser is a program designed to enable users to **access**, **retrieve** and **view** documents and other resources from the Web
 - Main responsibilities:
   - Bring information resources to the user (issuing requests to the web server and handling any results generated by the request)
   - Presenting web content (render HTML, CSS, JS)
   - Capable of executing applications within the same context as the document on view (Flash)
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 40px;' } -->
+<!-- attr: { showInPresentation: true, style:'font-size: 40px;' } -->
 # Layout Engines
-- Software component that **displays the formatted content** on the screen combining:
-  - Marked up content (such as HTML, XML, image files, etc.)
-  - Formatting information (such as CSS, XSL, etc.)
+- Layout Engines are software components that **displays the formatted content** on the screen combining:
+  - Marked up content (such as `HTML`, `XML`, image files, etc.)
+  - Formatting information (such as `CSS`, `XSL`, etc.)
 - It "paints" on the content area of a window, which is displayed on a monitor or a printer
 - Typically embedded in web browsers, e-mail clients, on-line help systems or other applications that require the displaying (and editing) of web content
-- How Browsers Work
+-	The layout engine is the "heart of a browser"
 
-
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 40px;' } -->
-# Layout Enginesand Web Browsers
-- Trident-based
+<!-- attr: { showInPresentation: true, hasScriptWrapper: true, style:'font-size: 40px;' } -->
+# Layout Engines and Web Browsers
+- **Trident**-based
   - Internet Explorer, Netscape, Maxthon, etc.
-- Gecko-based
+- **Gecko**-based
   - Firefox, Netscape, SeaMonkey, etc.
-- Blink-based
+- **Blink**-based
   - Chrome, Opera
-- WebKit-based
+- **WebKit**-based
   - Safari, iOS, Maxthon, Chrome (up to v27), etc.
-- EdgeHTML (fork of Trident)
-  - Spartan (the new IE)
-  - Windows 10 and Windows 10 (Mobile)
+- **EdgeHTML** (fork of Trident)
+  - Microsoft Edge
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic20.png" style="top:33.92%; left:60%; width:50%; z-index:-1" /> -->
-
-
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 34px;' } -->
+<!-- attr: { showInPresentation: true, style:'font-size: 34px;' } -->
 # User Agent Strings
 - Identify web browsers and their version
-  - History of (in)compatibility attempts [link]
-- Can have some additional information like layout engine, user's operating system, etc.
+  - History of (in)compatibility attempts
+- Can have some additional information like layout engine, user's operating system, etc...
 
-```cs
+```javascript
 Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
 ```
 
@@ -135,19 +132,16 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 
 
 
-
-
-
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
-# Hardware Servers
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic21.png" style="top:45%; left:28%; width:45%; z-index:-1" /> -->
+<!-- attr: {  class:'slide-section', showInPresentation: true, hasScriptWrapper: true } -->
+<!-- # Hardware Servers
+<img class="slide-image" src="imgs/pic21.png" style="top:45%; left:28%; width:45%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'hardwareserver', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+<!-- attr: { id:'hardwareserver', showInPresentation: true, hasScriptWrapper: true } -->
 # <a id="hardwareserver"></a>Hardware Servers
-- **Physical computer**(a hardware system) dedicated to running one or more such services
-- Servers are placed in collocation centers
+- A hardware server is a **physical computer** dedicated to running one or more such services
+- Servers are placed in colocation centers
   - Colocation facilities provide space, power, cooling, and physical security for the server
 - The server may be:
   - Database server
@@ -156,23 +150,23 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
   - Print server
   - VPS servers
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic22.png" style="top:55%; left:61.80%; width:25%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic22.png" style="top:55%; left:61.80%; width:25%; z-index:-1" /> -->
 
 
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
-# Web Servers
-## Apache, IIS, nginx, lighttpd, etc.
+<!-- attr: {  class:'slide-section', showInPresentation: true, hasScriptWrapper: true } -->
+<!-- # Web Servers
+## Apache, IIS, nginx, lighttpd, etc. -->
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic23.png" style="top:55%; left:0%; width:22.04%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic24.png" style="top:55%; left:80.47%; width:20.61%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic25.png" style="top:7%; left:33%; width:35.26%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic26.png" style="top:55%; left:35%; width:27.44%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic23.png" style="top:55%; left:0%; width:22.04%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic24.png" style="top:55%; left:80.47%; width:20.61%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic25.png" style="top:7%; left:33%; width:35.26%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic26.png" style="top:55%; left:35%; width:27.44%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'webserver', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'' } -->
+<!-- attr: { id:'webserver', showInPresentation: true } -->
 # <a id="webserver"></a>What Do the Web Servers Do?
 - All physical servers have hardware
 - The hardware is controlled by the operating system
@@ -181,66 +175,67 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 - These requests are redirected to other software products (ASP.NET, PHP, etc.), depending on the web server settings
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
-# Web Servers Market Share March 2015
+<!-- attr: { showInPresentation: true, hasScriptWrapper: true } -->
+# Web Servers Market Share October 2015
 - Market share of the top million busiest sites
-  - Apache
-    - 49.35%  (493,463)
-  - nginx
-    - 21.22% (212,151)
-  - IIS (by Microsoft)
-    - 12.21% (122,069)
-  - GWS (by Google)
-    - 2.44% (24,434)
-- [Source](http://news.netcraft.com/archives/2015/03/19/march-2015-web-server-survey.html)
+  - **Apache**
+    - 47.18% (469,050)
+  - **nginx**
+    - 23.36% (236,650)
+  - **IIS** (by Microsoft)
+    - 11.64% (116,321)
+  - **GWS** (by Google)
+    - 2.25% (22,304)
+- [Source](http://news.netcraft.com/archives/2015/10/16/october-2015-web-server-survey.html)
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic27.png" style="top:28%; left:59.28%; width:44.99%; z-index:-1" /> -->
-
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic27.png" style="top:28%; left:59.28%; width:44.99%; z-index:-1" /> -->
 
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
-# Client-Server Architecture
+<!-- attr: {  class:'slide-section', showInPresentation: true, hasScriptWrapper: true } -->
+<!-- # Client-Server Architecture
 ## The Classical Client-Server Model
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic28.png" style="top:55%; left:30.88%; width:35%; z-index:-1" /> -->
+<img class="slide-image" src="imgs/pic28.png" style="top:55%; left:30.88%; width:35%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'clientserver', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'' } -->
+<!-- attr: { id:'clientserver', showInPresentation: true } -->
 # <a id="clientserver"></a>Client-Server Architecture
 - The client-server model consists of:
-  - **Server** – a single machine or cluster of machines that provides web applications (or services) to multiple clients
+  - A **server**
+    -  A single machine or cluster of machines that provides web applications (or services) to multiple clients
     - _Examples_:
       - Web server running PHP scripts or ASP.NET pages
-      - IIS based Web server
-      - WCF based service
+      - IIS-based Web server
+      - WCF-based service
       - Services in the cloud
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+<!-- attr: { showInPresentation: true, hasScriptWrapper: true } -->
 # Client-Server Architecture
 - The client-server model consists of:
-  - **Clients**–software applications that provide UI (front-end) to access the services at the server
+  - **Clients**
+    - Software applications that provide UI (front-end) to access the services at the server
     - _Examples_:
       - Web browsers
-      - WPF applications
+      - Desktop applications
       - HTML5 applications
       - Silverlight applications
       - ASP.NET consuming services
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic29.png" style="top:36.14%; left:68.30%; width:28.21%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic29.png" style="top:36.14%; left:68.30%; width:28.21%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+<!-- attr: { showInPresentation: true, hasScriptWrapper: true } -->
 # The Client-Server Model
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\client-server.png" style="top:15%; left:5%; width:85%; z-index:-1" /> -->
+<img class="slide-image" src="imgs/client-server.png" style="top:15%; left:5%; width:85%; z-index:-1" />
 
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'' } -->
-# Client-Server Model – _Examples_
+<!-- attr: { showInPresentation: true } -->
+# Client-Server Model: _Examples_
 - Web server (Apache, IIS) – Web browser
 - FTP server (ftpd) – FTP client (FileZilla)
 - EMail server (qmail) – email client (Outlook)
@@ -254,15 +249,14 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
-# 3-Tier / Multi-Tier Architectures
-## Classical Layered Structure of Software Systems
+<!-- attr: {  class:'slide-section', showInPresentation: true, hasScriptWrapper: true } -->
+<!-- # 3-Tier / Multi-Tier Architectures
+## Classical Layered Structure of Software Systems -->
 
 
-
-<!-- attr: { id:'3tier', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'' } -->
-# <a id="3tier"></a>The 3-Tier Architecture
-- The **3-tier architecture**consists of the following tiers (layers):
+<!-- attr: { id:'three-tier', showInPresentation: true } -->
+# <a id="three-tier"></a>The 3-Tier Architecture
+- The **3-tier architecture** consists of the following tiers (layers):
   - **Front-end** (client layer)
     - Client software – provides the UI of the system
   - **Middle tier**(business layer)
@@ -272,28 +266,25 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
     - Manages the data of the system (database / cloud)
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+<!-- attr: { showInPresentation: true, hasScriptWrapper: true } -->
 # The 3-Tier Architecture Model
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\3-tier.png" style="top:15%; left:10%; width:85%; z-index:-1" /> -->
+<img class="slide-image" src="imgs/3-tier.png" style="top:15%; left:10%; width:85%; z-index:-1" />
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+<!-- attr: { showInPresentation: true, hasScriptWrapper: true } -->
 # Typical Layers of the Middle Tier
 - The middle tier usually has parts related to the front-end, business logic and back-end:
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\middle-tier.png" style="top:40%; left:10%; width:75%; z-index:-1" /> -->
-
+<img class="slide-image" src="imgs/middle-tier.png" style="top:40%; left:10%; width:75%; z-index:-1" />
 
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+<!-- attr: {  class:'slide-section', showInPresentation: true, hasScriptWrapper: true } -->
 <!-- # Service-Oriented Architecture (SOA) -->
 
-
-
-<!-- attr: { id:'soa', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'' } -->
+<!-- attr: { id:'soa', showInPresentation: true } -->
 # <a id="soa"></a>What is a Service?
 - In the real world a "**service**" is:
   - A piece of work performed by a service provider
@@ -304,20 +295,19 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
   - Has quality characteristics (price, execution time, constraints, etc.)
 
 
-
-
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
-# What is "Cloud"?
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic44.png" style="top:45%; left:48%; width:39.82%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic45.png" style="top:45%; left:35%; width:33.13%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic46.png" style="top:45%; left:11%; width:36.14%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic47.png" style="top:40%; left:21.52%; width:21.16%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic48.png" style="top:40%; left:56.70%; width:24.15%; z-index:-1" /> -->
+<!-- attr: {  class:'slide-section', showInPresentation: true, hasScriptWrapper: true } -->
+<!-- # What is "Cloud"? -->
+
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic44.png" style="top:45%; left:48%; width:39.82%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic45.png" style="top:45%; left:35%; width:33.13%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic46.png" style="top:45%; left:11%; width:36.14%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic47.png" style="top:40%; left:21.52%; width:21.16%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic48.png" style="top:40%; left:56.70%; width:24.15%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'cloud', showInPresentation:'True', hasScriptWrapper:'False', style:'' } -->
+<!-- attr: {  class:'cloud', showInPresentation: true } -->
 # <a id="cloud"></a>What is Cloud?
 - **Cloud** ≈ multiple hardware machines combine their computing power and resources
   - Share them between multiple applications
@@ -329,7 +319,7 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
   - Amazon AWS, Google App Engine, Microsoft Azure, Rackspace, PHPFog, Heroku, AppHarbor
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'' } -->
+<!-- attr: { showInPresentation: true } -->
 # Cloud Computing Models
 - **Infrastructure as a Service (IaaS)**
   - Virtual machines in the cloud on demand
@@ -340,23 +330,25 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 - **Software as a Service (SaaS)**
   - Hosted application on demand (e.g. WordPress)
 
+<!-- section start -->
 
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'False', style:'' } -->
-# Web Technologies Basics
-## Questions?
+<!-- attr: {  class:'slide-section', showInPresentation: true } -->
+# Questions?
+## Ask at [our forum](http://telerikacademy.com/Forum/Category/27/html-css)
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+<!-- attr: {hasScriptWrapper: true } -->
 # Free Trainings @ Telerik Academy
-- "Web Design with HTML5, CSS3 and JavaScript" course @ Telerik Academy
-    - [html5course.telerik.com](html5course.telerik.com)
-  - Telerik Software Academy
-    - [academy.telerik.com](academy.telerik.com)
-  - Telerik Academy @ Facebook
-    - [facebook.com/TelerikAcademy](facebook.com/TelerikAcademy)
-  - Telerik Software Academy Forums
-    - [forums.academy.telerik.com](forums.academy.telerik.com)
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic49.png" style="top:58.18%; left:90.52%; width:16.97%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic50.png" style="top:34.35%; left:68.14%; width:36.30%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs\pic51.png" style="top:48.92%; left:75.91%; width:10.85%; z-index:-1" /> -->
+- **HTML Basics** course @ Telerik Academy
+    - [html5course.telerik.com](html5course.telerik.com)
+- Telerik Software Academy
+  - [academy.telerik.com](academy.telerik.com)
+- Telerik Academy @ Facebook
+  - [facebook.com/TelerikAcademy](facebook.com/TelerikAcademy)
+- Telerik Software Academy Forums
+  - [forums.academy.telerik.com](forums.academy.telerik.com)
+
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic49.png" style="top:58.18%; left:90.52%; width:16.97%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic50.png" style="top:34.35%; left:68.14%; width:36.30%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic51.png" style="top:48.92%; left:75.91%; width:10.85%; z-index:-1" /> -->
