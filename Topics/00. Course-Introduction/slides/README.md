@@ -173,8 +173,8 @@
 
 <!-- section start -->
 <!-- attr: { id:'resources', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# <a id="resources"></a>Resources
-## What We Need in Addition to this Course Content?
+# <a id="resources"></a>Addintional Resources
+## Optional resources for the course
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:55%; left:7.49%; width:45.33%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic31.png" style="top:55%; left:83.62%; width:19.94%; z-index:-1" /> -->
@@ -183,21 +183,20 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic34.png" style="top:3%; left:75.48%; width:14.10%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic35.png" style="top:3%; left:94.27%; width:12.78%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic36.png" style="top:55%; left:58.90%; width:20.06%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic37.png" style="top:11.92%; left:9.79%; width:19.86%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic37.png" style="top:3%; left:9.79%; width:19.86%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 38px' } -->
-# Recommended Books
-- **Designing with Web Standards**, <br />Jeffrey Zeldman, New Riders Press, 2005, ISBN 9780321616951
-- **HTML & XHTML: The Definitive Guide, Sixth Edition**, <br />Chuck Musciano, Bill Kennedy, O'Reilly, 2006, ISBN 9780596527327
-- **CSS: The Definitive Guide, Third Edition**, <br />Eric Meyer, O'Reilly, 2006, ISBN 9780596527334
-- **PPK on JavaScript**, <br />Peter Paul-Koch, New Riders Press, 2006, ISBN 9780321423306
+# Addintional Resources
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic38.png" style="top:8%; left:-13%; width:11.35%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic40.png" style="top:30%; left:-13%; width:11.39%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic41.png" style="top:52%; left:-13%; width:11.39%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic39.png" style="top:74%; left:-13%; width:11.35%; z-index:-1" /> -->
-
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+  - The most complete documentation of web standards
+    - `HTML`, `CSS` and `JavaScript`
+    - Supported features on different browsers and versions
+- [Stack Overflow](http://stackoverflow.com/)
+  - [Newest HTML questions](http://stackoverflow.com/questions/tagged/html)
+  - [Newest CSS questions](http://stackoverflow.com/questions/tagged/css)
+  - [Newest JavaScript questions](http://stackoverflow.com/questions/tagged/javascript)
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
 # Course Web Site & Forums
@@ -246,7 +245,7 @@
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
 # Free Trainings @ Telerik Academy
-- Fundamentals of C# ProgrammingTrack of Courses
+- Web front-end track
     - [html.telerik.com](http://academy.telerik.com/student-courses/web-design-and-ui/about)
   - Telerik Software Academy
     - [academy.telerik.com](academy.telerik.com)
