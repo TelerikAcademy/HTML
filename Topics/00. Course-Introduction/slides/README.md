@@ -54,7 +54,7 @@
 - **HTML** and **CSS** – evolving standards
 - **JavaScript**
   - High-level scripting language, easy to use
-  - The **most widely used** programming language
+  - The [**most widely used**](http://stackoverflow.com/research/developer-survey-2015) programming language
   - Runs on client and server
   - Has a bad history, but is a quite good language
 
