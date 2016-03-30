@@ -6,7 +6,7 @@
 <div class="signature">
     <p class="signature-course">HTML Basics</p>
     <p class="signature-initiative">Telerik Software Academy</p>
-    <a href="http://academy.telerik.com" class="signature-link">http://academy.telerik.com</a>
+    <a href="https://telerikacademy.com" class="signature-link">https://telerikacademy.com</a>
 </div>
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:75%; left:82.34%; width:12%; z-index:-1" /> -->
