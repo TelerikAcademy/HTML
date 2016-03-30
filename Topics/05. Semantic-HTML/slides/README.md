@@ -356,8 +356,7 @@
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-<!-- # Semantic Web
-## Questions? -->
+<!-- # Semantic Web -->
 <!-- <img class="slide-image" showInPresentation="true" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/cat-questions.png" style="width:80%; top:15%; left:10%" /> -->
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->

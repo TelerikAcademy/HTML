@@ -335,6 +335,7 @@
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # HTML – Tables and Forms -->
 <!-- ## Questions? -->
+
 <!-- <img class="slide-image" showInPresentation="true" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/questions-blue.png" style="width:60%; top:15%; left:10%" /> -->
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'' } -->

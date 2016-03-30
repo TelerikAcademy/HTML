@@ -1,12 +1,16 @@
 <!-- section start -->
 <!-- attr: { id:'', class:'slide-title', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# HTML BasicsCourse Introduction
+# HTML Basics: Course Introduction
 ## Course Program, Evaluation, Resources
+
+<div class="signature">
+    <p class="signature-course">HTML Basics</p>
+    <p class="signature-initiative">Telerik Software Academy</p>
+    <a href="http://academy.telerik.com" class="signature-link">http://academy.telerik.com</a>
+</div>
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:60%; left:55%; width:45%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic02.png" style="top:40%; left:7.49%; width:19.88%; z-index:-1" /> -->
-
-
 
 
 <!-- section start -->
@@ -21,24 +25,21 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic04.png" style="top:65%; left:9.36%; width:36.03%; z-index:-1" /> -->
 
 
-
-
 <!-- section start -->
 <!-- attr: { id:'curriculum', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# <a id="curriculum"></a>HTML Course Curriculum
-<img class="slide-image" showInPresentation="true" src="imgs/pic05.png" style="top:50%; left:30%; width:40%; z-index:-1" />
+<!-- # <a id="curriculum"></a>HTML Course Curriculum
+<img class="slide-image" src="imgs/pic05.png" style="top:50%; left:30%; width:40%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # What's Coming Next?
 - HTML Introduction
   - Fundamental for web development
-  - Starting of front-end track
-- Pretty much the same
-  - Lectures 3 times a week
-  - Test exam next Friday
+  - Start of the **Front-end track**
+  - Lectures once a week
+  - Test exam **after a month**
 - The course exam?
-  - 35 test questions for 45 minutes
+  - **35 questions** for **45 minutes**
   - Telerik Academy Test System
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic06.png" style="top:27.33%; left:74.85%; width:27.33%; z-index:-1" /> -->
@@ -46,19 +47,21 @@
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
 # Why HTML, CSS and JS?
-- HTML, CSS and JS – standard for web-based UI
+- **HTML**, **CSS** and **JS** – the standard for web-based UI
   - Web-based applications are extremely popular
-  - Run on anything with a browser
-  - Windows 8 devices can run HTML, CSS and JS natively
-- HTML and CSS – evolving standards
-- JavaScript
-  - High-level scripting language, fast to write, object-oriented, runs on client and server
+  - Run on **anything with a browser**
+  - Many frameworks that produce **native applications** from HTML, CSS and JS
+- **HTML** and **CSS** – evolving standards
+- **JavaScript**
+  - High-level scripting language, easy to use
+  - The [**most widely used**](http://stackoverflow.com/research/developer-survey-2015) programming language
+  - Runs on client and server
+  - Has a bad history, but is a quite good language
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # HTML Basics Program
-- Web Design Concepts
-- Tools for HTML, CSS and JS
+- Web Development Fundamentals
 - Introduction to HTML
 - HTML Tables
 - HTML Forms
@@ -75,7 +78,6 @@
 <!-- section start -->
 <!-- attr: { id:'evaluation', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # <a id="evaluation"></a>Evaluation
-## Thank God There Are Bonuses!
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic20.png" style="top:55%; left:5%; width:20%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic21.png" style="top:10%; left:80%; width:20%; z-index:-1" /> -->
@@ -90,8 +92,6 @@
   - Homework **evaluation** – **5%**
     - 3 peer reviews per homework
   - **Attendance** in class – **5%**
-- Bonuses
-  - **Forums** **activity** – bonus up to **5%**
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic25.png" style="top:14.99%; left:78.60%; width:26.41%; z-index:-1" /> -->
 
@@ -109,19 +109,21 @@
 ```
 
 - What will the page text look like in a modern browser?
- - This is <br /> multi-line <br /> text
- - 404 - not found
- - This is multi-line text
- - **This is\r\n multi-line text**
+  <ul>
+    <li>This is <br /> multi-line <br /> text
+    <li>404 - not found</li>
+    <li>This is multi-line text</li>
+    <li class="fragment highlight-green">This is\r\n multi-line text</li>
+  </ul>
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
 # Homework Peer Reviews
-- Everyone will **get feedback**for their homework
-- Everyone will **give feedback**for few random homework submissions
+- Everyone will **get feedback** for their homework
+- Everyone will **give feedback** for few random homework submissions
   - Students submit homework **anonymously**
     - Please exclude your name from the submissions!
   - For each homework submitted
-    - Students **evaluate3random homeworks**
+    - Students **evaluate 3 random homeworks**
     - From the same topic, after the deadline
     - Give written feedback, at least 200 characters
     - Low-quality feedback &rarr; report for punishment
@@ -144,37 +146,35 @@
 # Pass / Excellence / Fail Criteria
   - Criteria for pass / pass with excellence / fail
     - **Passwith excellence**
-    - Very high exam results
-    - 	  or
-    - High total results
-  - **Pass**
-    - Average total results
-  - **Fail**
-    - Low total results or low exam results
+      - Very high exam results
+      - or High total results
+    - **Pass**
+      - Average total results
+    - **Fail**
+      - Low total results or low exam results
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic27.png" style="top:45%; left:43%; width:14.10%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic28.png" style="top:17%; left:70%; width:23.36%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic29.png" style="top:61.71%; left:70%; width:13.22%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic27.png" style="top:36%; left:59%; width:14.10%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic28.png" style="top:17%; left:45%; width:23.36%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic29.png" style="top:50%; left:70%; width:13.22%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
 # Homework Assignments
 - Doing your homework is very important!
-  - Programming can only belearned through **a lot of practice**!
+  - Programming can only be learned through **a lot of practice**!
 - After each lecture there are a few exercises
   - Try to solve them in class
   - The rest are your homework
-- Homework assignments due few days after each lecture – no excuses for being late
-  - <u>Deadlines are final & enforced by the system</u>
-- Submit homework through telerikacademy.com
-
-
+- Homework assignments due few days after each lecture
+  - No excuses for being late
+  - Deadlines are final & enforced by the system</u>
+- Submit homework through [telerikacademy.com](http://telerikacademy.com)
 
 
 <!-- section start -->
 <!-- attr: { id:'resources', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# <a id="resources"></a>Resources
-## What We Need in Addition to this Course Content?
+# <a id="resources"></a>Addintional Resources
+## Optional resources for the course
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:55%; left:7.49%; width:45.33%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic31.png" style="top:55%; left:83.62%; width:19.94%; z-index:-1" /> -->
@@ -183,21 +183,20 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic34.png" style="top:3%; left:75.48%; width:14.10%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic35.png" style="top:3%; left:94.27%; width:12.78%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic36.png" style="top:55%; left:58.90%; width:20.06%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic37.png" style="top:11.92%; left:9.79%; width:19.86%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic37.png" style="top:3%; left:9.79%; width:19.86%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 38px' } -->
-# Recommended Books
-- **Designing with Web Standards**, <br />Jeffrey Zeldman, New Riders Press, 2005, ISBN 9780321616951
-- **HTML & XHTML: The Definitive Guide, Sixth Edition**, <br />Chuck Musciano, Bill Kennedy, O'Reilly, 2006, ISBN 9780596527327
-- **CSS: The Definitive Guide, Third Edition**, <br />Eric Meyer, O'Reilly, 2006, ISBN 9780596527334
-- **PPK on JavaScript**, <br />Peter Paul-Koch, New Riders Press, 2006, ISBN 9780321423306
+# Addintional Resources
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic38.png" style="top:8%; left:-13%; width:11.35%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic40.png" style="top:30%; left:-13%; width:11.39%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic41.png" style="top:52%; left:-13%; width:11.39%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic39.png" style="top:74%; left:-13%; width:11.35%; z-index:-1" /> -->
-
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+  - The most complete documentation of web standards
+    - `HTML`, `CSS` and `JavaScript`
+    - Supported features on different browsers and versions
+- [Stack Overflow](http://stackoverflow.com/)
+  - [Newest HTML questions](http://stackoverflow.com/questions/tagged/html)
+  - [Newest CSS questions](http://stackoverflow.com/questions/tagged/css)
+  - [Newest JavaScript questions](http://stackoverflow.com/questions/tagged/javascript)
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
 # Course Web Site & Forums
@@ -237,14 +236,16 @@
   - Any text editor that is convenient with you
 
 
+<!-- section start  -->
+
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# HTML BasicsCourse Introduction
+# HTML Basics: Course Introduction
 
 <!-- <img class="slide-image" showInPresentation="true" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/questions-blue.png" style="width:80%; top:15%; left:10%" /> -->
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
 # Free Trainings @ Telerik Academy
-- Fundamentals of C# ProgrammingTrack of Courses
+- Web front-end track
     - [html.telerik.com](http://academy.telerik.com/student-courses/web-design-and-ui/about)
   - Telerik Software Academy
     - [academy.telerik.com](academy.telerik.com)

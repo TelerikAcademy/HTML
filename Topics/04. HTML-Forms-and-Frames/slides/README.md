@@ -374,8 +374,7 @@
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-<!-- # HTML Forms and Frames
-## Questions? -->
+<!-- # HTML Forms and Frames -->
 
 <!-- <img class="slide-image" showInPresentation="true" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/questions-blue.png" style="width:60%; top:15%; left:10%" /> -->
 
