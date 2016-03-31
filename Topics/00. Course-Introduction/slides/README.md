@@ -117,6 +117,15 @@
   </ul>
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+# Homework Assignments
+- Doing your homework is very important!
+  - Programming can only be learned through **a lot of practice**!
+- Homework assignments due few days after each lecture
+  - No excuses for being late
+  - Deadlines are final & enforced by the system</u>
+- Submit homework through [telerikacademy.com](http://telerikacademy.com)
+
+<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
 # Homework Peer Reviews
 - Everyone will **get feedback** for their homework
 - Everyone will **give feedback** for few random homework submissions
@@ -157,19 +166,6 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic27.png" style="top:43%; left:59%; width:10%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic28.png" style="top:20%; left:45%; width:19%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic29.png" style="top:58%; left:70%; width:13%; z-index:-1" /> -->
-
-
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# Homework Assignments
-- Doing your homework is very important!
-  - Programming can only be learned through **a lot of practice**!
-- After each lecture there are a few exercises
-  - Try to solve them in class
-  - The rest are your homework
-- Homework assignments due few days after each lecture
-  - No excuses for being late
-  - Deadlines are final & enforced by the system</u>
-- Submit homework through [telerikacademy.com](http://telerikacademy.com)
 
 
 <!-- section start -->
