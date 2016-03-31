@@ -1,5 +1,5 @@
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-title', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { class:'slide-title', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 # HTML Tables
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:54.85%; left:40%; width:28.28%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic01.png" style="top:55%; left:5%; width:28.10%; z-index:-1" /> -->
@@ -11,7 +11,7 @@
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 # Contents
 - [HTML Tables](#/tables)
   - [Simple Tables](#/simpletables)
@@ -19,7 +19,6 @@
   - [Complete HTML Tables](#/completetables)
 - [Nested Tables](#/nestedtables)
 - [Complex tables](#/comlextables)
-  - [Cells Width](#/cellswidth)
   - [Cell Spacing and Padding](#/cells)
   - [Column and Row Span](#/spans)
 
@@ -29,14 +28,14 @@
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # HTML Tables -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic06.png" style="top:7%; left:20%; width:60%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic07.png" style="top:33.16%; left:0%; width:25.08%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic08.png" style="top:56.78%; left:50%; width:37.02%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'tables', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { id:'tables', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 # <a id="tables"></a>HTML Tables
 - Tables represent tabular data
   - A table consists of one or several rows
@@ -49,7 +48,7 @@
   - Use CSS floats and positioning styles instead
 
 
-<!-- attr: { id:'simpletables', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { id:'simpletables', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 # <a id="simpletables"></a>Simple HTML Tables – _Example_
 
 ```html
@@ -72,16 +71,16 @@
 
 
 
-<!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # Simple HTML Tables
-## [Live Demo]() -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic09.png" style="top:0%; left:63%; width:40.99%; z-index:-1" /> -->
+<!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+<!-- # Simple HTML Tables -->
+## [Demo]()
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic09.png" style="top:0%; left:63%; width:40%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic10.png" style="top:10%; left:20%; width:25.67%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic11.png" style="top:49.19%; left:11.04%; width:24.68%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic12.png" style="top:50.84%; left:64.50%; width:37.02%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'headers', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { id:'headers', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 # <a id="headers"></a>Data Cells and Header Cells
 - Two kinds of cells in HTML tables
   - `Data` cells – containing the table data
@@ -103,9 +102,9 @@
 
 
 
-<!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # Data and Header Cells
-## [Live Demo]() -->
+<!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+<!-- # Data and Header Cells -->
+## [Demo]()
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic13.png" style="top:55%; left:60%; width:22.92%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic14.png" style="top:55%; left:17%; width:22.92%; z-index:-1" /> -->
 
@@ -113,22 +112,22 @@
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Complete HTML Tables
+<!-- attr: { id:'completetables', class:'slide-section', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+# <a id="completetables"></a>Complete HTML Tables
 ## With Header, Footer and Body
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic15.png" style="top:60%; left:75%; width:15%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'completetables', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# <a id="completetables"></a>Complete HTML Tables
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+# Complete HTML Tables
 - Table rows split into three semantic sections: `header`, `body` and `footer`
   - `<thead>` denotes table header and contains `<th>` elements, instead of `<td>` elements
   - `<tbody>` denotes collection of table rows that contain the very data
-  - `<tfoot>` denotes table footer but comes BEFORE the `<tbody>` tag
+  - `<tfoot>` denotes table footer but comes **BEFORE** the `<tbody>` tag
   - `<colgroup>` and `<col>` define columns (used to set column widths)
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 # Complete HTML Table: _Example_
 
 ```html
@@ -149,8 +148,8 @@
 </table>
 ```
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# Complete HTML Table:_Example_
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+# Complete HTML Table: _Example_
 
 ```html
 <table>
@@ -174,23 +173,23 @@
 <!-- <img class="slide-image fragment balloon" showInPresentation="true" src="imgs/pic18.png" style="top:15%; left:36.65%; width:63.80%; z-index:1" /> -->
 
 
-<!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # Complete HTML Tables
-## [Live Demo]() -->
+<!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+<!-- # Complete HTML Tables -->
+## [Demo]()
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic19.png" style="top:55%; left:27%; width:40%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic20.png" style="top:55%; left:15%; width:18%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic20.png" style="top:55%; left:8%; width:18%; z-index:-1" /> -->
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # Nested Tables
-## Tables in Tables in Tables in Tables… -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic21.png" style="top:55%; left:7.11%; width:35%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic22.png" style="top:55%; left:62.31%; width:30%; z-index:-1" /> -->
-
-
-<!-- attr: { id:'nestedtables', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { id:'nestedtables', class:'slide-section', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 # <a id="nestedtables"></a>Nested Tables
-- Table "cells" (**&#60;td>**) can contain `nested` tables (tables within tables):
+## Tables in Tables in Tables in Tables…
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic21.png" style="top:53%; left:7.11%; width:35%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic22.png" style="top:53%; left:62.31%; width:30%; z-index:-1" /> -->
+
+
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+# Nested Tables
+- Table **cells** (`<td>`) can contain **nested** tables (tables within tables):
 
 ```html
 <table>
@@ -211,9 +210,9 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic23.png" style="top:49.41%; left:63.27%; width:40.44%; z-index:1" /> -->
 
 
-<!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # Nested Tables
-## [Live Demo]() -->
+<!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+<!-- # Nested Tables -->
+## [Demo]()
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic24.png" style="top:7.35%; left:75%; width:29%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic25.png" style="top:10.40%; left:0%; width:24%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic26.png" style="top:55%; left:20%; width:23.60%; z-index:-1" /> -->
@@ -221,19 +220,24 @@
 
 
 <!-- section start -->
-<!-- attr: { id:'comlextables', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- <a id="comlextables"></a># Complex Tables
+<!-- attr: { id:'comlextables', class:'slide-section', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+<!-- # <a id="comlextables"></a> Complex Tables
 ## With Padding, Spacing and Stuff -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic28.png" style="top:55%; left:30%; width:40%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'cells', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# <a id="cells"></a>Cell Spacing and Padding
-<div class="balloon" style="left:15%">cell spacing</div> <div class="balloon" style="left:60%">cell padding</div>
+<!-- attr: { id:'cells', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+# <a id="cells"></a> Cell Spacing and Padding
+
+<div>
+  <div class="balloon" style="top:20%;left:15%">cell spacing</div>
+  <div class="balloon" style="top:20%;left:60%">cell padding</div>
+</div>
+
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/cell-spacing-padding.png" style="top:25%; left:10%; width:80%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 # Cell Spacing and Padding – _Example_
 
 ```html
@@ -254,7 +258,7 @@
 
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Cell Spacing and Padding – _Example_ -->
 
 ```html
@@ -276,31 +280,31 @@
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic29.png" style="top:34.53%; left:65%; width:43.53%; z-index:1" /> -->
 
 
-<!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # Cell Spacing and Cell Padding
-## [Live Demo]() -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:55%; left:73.76%; width:25.34%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic31.png" style="top:50%; left:7.06%; width:22.52%; z-index:-1" /> -->
+<!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+<!-- # Cell Spacing and Cell Padding -->
+## [Demo]()
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:50%; left:73.76%; width:25.34%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic31.png" style="top:45%; left:7.06%; width:22.52%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic32.png" style="top:0%; left:40.23%; width:40%; z-index:-1" /> -->
 
 
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # Row and Column Spans
-## How to Make a Two-Cells Column or Row? -->
+<!-- attr: { id:'spans', class:'slide-section', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+# <a id="spans"></a>Row and Column Spans
+## How to Make a Two-Cells Column or Row?
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic33.png" style="top:55%; left:15.91%; width:23.03%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic34.png" style="top:5%; left:18.31%; width:18.51%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic35.png" style="top:60%; left:59.98%; width:23.03%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Column and Row Span -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/rowspan-colspan.png" style="top:20%; left:12.5%; width:75%; z-index:-1" /> -->
 
-<!-- attr: { id:'spans', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# <a id="spans"></a>Column and Row Span – _Example_
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+# Column and Row Span – _Example_
 
 ```html
 <table cellspacing="0">
@@ -318,26 +322,29 @@
   </tr>
 </table>
 ```
-<!-- <img class="slide-image fragment balloon" showInPresentation="true" src="imgs/rowspan-colspan-example.png" style="top:40%; left:55%; width:50%; z-index:1" /> -->
+
+<!-- <img class="slide-image fragment balloon" showInPresentation="true" src="imgs/rowspan-colspan-example.png" style="top:45%; left:55%; width:50%; z-index:1" /> -->
 
 
-<!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # Row and Column Spans
-## [Live Demo]() -->
+<!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+<!-- # Row and Column Spans -->
+## [Demo]()
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic36.png" style="top:45%; left:65.50%; width:25%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # HTML – Tables and Forms -->
+<!-- ## Questions? -->
+
 <!-- <img class="slide-image" showInPresentation="true" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/questions-blue.png" style="width:60%; top:15%; left:10%" /> -->
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'' } -->
 # Free Trainings @ Telerik Academy
-- Fundamentals of C# ProgrammingTrack of Courses
+- Fundamentals of C# Programming Track of Courses
     - [html.telerik.com](http://academy.telerik.com/student-courses/web-design-and-ui/about)
   - Telerik Software Academy
-    - [academy.telerik.com](academy.telerik.com)
+    - [telerikacademy.com](https://telerikacademy.com)
   - Telerik Academy @ Facebook
     - [facebook.com/TelerikAcademy](facebook.com/TelerikAcademy)
   - Telerik Academy Learning System
-    - [telerikacademy.com](telerikacademy.com)
+    - [telerikacademy.com](https://telerikacademy.com)

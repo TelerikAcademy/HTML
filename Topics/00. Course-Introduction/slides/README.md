@@ -9,7 +9,7 @@
     <a href="http://academy.telerik.com" class="signature-link">http://academy.telerik.com</a>
 </div>
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:60%; left:55%; width:45%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:60%; left:55%; width:45%; z-index:-1; border-radius: 15px" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic02.png" style="top:40%; left:7.49%; width:19.88%; z-index:-1" /> -->
 
 
@@ -21,14 +21,14 @@
 - [Learning Resources](#/resources)
   - [Required software](#/software)
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic03.png" style="top:25%; left:61.28%; width:37.01%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic04.png" style="top:65%; left:9.36%; width:36.03%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic03.png" style="top:25%; left:61.28%; width:37.01%; z-index:-1; border-radius: 15px; border: 3px solid yellowgreen;" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic04.png" style="top:65%; left:9.36%; width:36.03%; z-index:-1; border-radius: 20px 0px 20px 0" /> -->
 
 
 <!-- section start -->
 <!-- attr: { id:'curriculum', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 <!-- # <a id="curriculum"></a>HTML Course Curriculum
-<img class="slide-image" src="imgs/pic05.png" style="top:50%; left:30%; width:40%; z-index:-1" /> -->
+<img class="slide-image" src="imgs/pic05.png" style="top:50%; left:30%; width:40%; z-index:-1; border-radius: 15px" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
@@ -80,8 +80,8 @@
 # <a id="evaluation"></a>Evaluation
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic20.png" style="top:55%; left:5%; width:20%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic21.png" style="top:10%; left:80%; width:20%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic22.png" style="top:55%; left:55%; width:35%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic21.png" style="top:10%; left:80%; width:20%; z-index:-1; border-radius: 15px" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic22.png" style="top:55%; left:55%; width:35%; z-index:-1; border-radius: 15px" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
@@ -145,6 +145,7 @@
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
 # Pass / Excellence / Fail Criteria
   - Criteria for pass / pass with excellence / fail
+  <br/><br/>
     - **Passwith excellence**
       - Very high exam results
       - or High total results
@@ -153,9 +154,9 @@
     - **Fail**
       - Low total results or low exam results
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic27.png" style="top:36%; left:59%; width:14.10%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic28.png" style="top:17%; left:45%; width:23.36%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic29.png" style="top:50%; left:70%; width:13.22%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic27.png" style="top:43%; left:59%; width:10%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic28.png" style="top:20%; left:45%; width:19%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic29.png" style="top:58%; left:70%; width:13%; z-index:-1" /> -->
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
@@ -173,11 +174,11 @@
 
 <!-- section start -->
 <!-- attr: { id:'resources', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# <a id="resources"></a>Addintional Resources
+# <a id="resources"></a>Additional Resources
 ## Optional resources for the course
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:55%; left:7.49%; width:45.33%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic31.png" style="top:55%; left:83.62%; width:19.94%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:55%; left:7.49%; width:45.33%; z-index:-1; border-radius: 15px; transform: rotate(-5deg)" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic31.png" style="top:55%; left:83.62%; width:19.94%; z-index:-1; border-radius: 15px; transform: rotate(7deg)" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic32.png" style="top:3%; left:33.06%; width:19.61%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic33.png" style="top:3%; left:58.09%; width:16.09%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic34.png" style="top:3%; left:75.48%; width:14.10%; z-index:-1" /> -->
@@ -187,7 +188,7 @@
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 38px' } -->
-# Addintional Resources
+# Additional Resources
 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
   - The most complete documentation of web standards
@@ -210,7 +211,7 @@
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # Telerik IntegratedLearning System (TILS) -->
+<!-- # Telerik Integrated Learning System (TILS) -->
 - The Telerik Integrated Learning System (TILS)
   - [www.telerikacademy.com](http://www.telerikacademy.com)
   - Important resource for all students
@@ -241,7 +242,7 @@
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
 # HTML Basics: Course Introduction
 
-<!-- <img class="slide-image" showInPresentation="true" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/questions-blue.png" style="width:80%; top:15%; left:10%" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/questions-blue.png" style="width:80%; top:15%; left:10%; border-radius: 20px"; /> -->
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
 # Free Trainings @ Telerik Academy
