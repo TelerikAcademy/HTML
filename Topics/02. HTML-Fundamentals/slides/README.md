@@ -1,5 +1,5 @@
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-title', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { class:'slide-title', showInPresentation:true, hasScriptWrapper:true } -->
 # HTML 5
 ## The past, the present, the future
 
@@ -9,15 +9,15 @@
     <a href="https://telerikacademy.com" class="signature-link">https://telerikacademy.com</a>
 </div>
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:75%; left:82.34%; width:12%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic01.png" style="top:60%; left:50%; width:17.69%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:55%; left:90%; width:12%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic01.png" style="top:55%; left:65%; width:17.69%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic03.png" style="top:15%; left:5%; width:18.93%; z-index:-1; transform: rotate(-5deg)" /> -->
 
 
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true} -->
 # Table of Contents
 - [Hypertext Markup Language](#/html)
 - [HTML Terminology](#/terminology)
@@ -32,12 +32,12 @@
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # Hypertext Markup Language -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic05.png" style="top:45%; left:35%; width:30%; z-index:-1; border-radius: 20px" /> -->
 
 
-<!-- attr: { id:'html', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { id:'html', showInPresentation:true, hasScriptWrapper:true} -->
 # <a id="html"></a>Hypertext Markup Language
 - **HTML** – **H**yper **T**ext **M**arkup **L**anguage
   - A **notation for describing**
@@ -49,11 +49,15 @@
 - A **HTML** document **consists of many tags**
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 0.8em' } -->
 # Creating HTML Pages
 - An **HTML** document must have an **.htm** or **.html** file extension
 - **HTML** files can be created with text editors:
-  - _Notepad_, _Notepad++_, _Sublime Text_, etc
+  - _Notepad_
+  - _Notepad++_
+  - _Sublime Text 2/3_
+  - _Atom_
+  - _Visual Studio Code_
 - Or **HTML** editors ([WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) Editors):
   - Microsoft WebMatrix
   - Microsoft Expression Web
@@ -61,7 +65,7 @@
   - Adobe Dreamweaver
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 38px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 0.8em' } -->
 # HTML – Past, Present, Future
 - 1991 – HTML first mentioned – Tim Berners-Lee – HTML tags
 - 1993 – HTML (first public version, published at IETF)
@@ -83,14 +87,14 @@
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # HTML Terminology
 ## Tags, Attributes and Elements -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic07.png" style="top:55%; left:7%; width:38%; z-index:-1; border-radius: 20px" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic08.png" style="top:55%; left:52%; width:41.5%; z-index:-1; border-radius: 20px" /> -->
 
 
-<!-- attr: { id:'terminology', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { id:'terminology', showInPresentation:true, hasScriptWrapper:true} -->
 # <a id="terminology"></a>HTML Terminology
 - Concepts in **HTML**
   - **Tags**
@@ -103,7 +107,7 @@
     - Combination of opening, closing tag and attributes
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 0.9em' } -->
 # HTML Tags
 - **Tags** are the **smallest piece** in HTML Document
   - Start with `<` and end with `>`
@@ -127,12 +131,12 @@
 <div class="fragment balloon" style="top:82%; left:17%;">Closing tags</div>
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Attributes
 - Attributes are **properties of HTML Elements**
   - Used to **set** `size`, `color`, `border`, etc…
   - Put **directly in the tags**
-  - Has value surrounded by **single** or **double** quotes - `" "` or `' '`
+  - Has value surrounded by **single** `' '` or **double** `" "`  quotes
     - The value is always a string
 
 ```html
@@ -146,19 +150,19 @@
 <img src="images/SEB-Ninja.png"/>
 ```
 
-<div class="fragment balloon" style="top:55%; left:65%; width:25.56%">Some  tags don't have closing tag</div>
+<div class="fragment balloon" style="top:72%; left:58%; width:25.56%">Some  tags don't have closing tag</div>
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Most Common Attributes
 - There are some **attributes that are common** for every HTML element
-  - `Id`, `class`, `name`, `style`
+  - `id`, `class`, `name`, `style`
 - Some attributes are **specific**
   - For example the attribute `src` of the `img` element
     - Shows the path to the image to be shown
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # HTML Elements
 - HTML Elements are **combination of tags and attributes**
   - Opening tag with some or none attributes and a closing tag
@@ -172,21 +176,21 @@
 ```
 
 
-<!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # HTML Terminology--> 
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/01.HTML-concepts.html)
+<!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true } -->
+<!-- # HTML Terminology-->
+## [Demo](../demos/01.HTML-concepts.html)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic09.png" style="top:55%; left:10%; width:34.77%; z-index:-1; border-radius: 20px; transform: rotate(-5deg)" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic10.png" style="top:55%; left:57%; width:38%; z-index:-1; border-radius: 20px; transform: rotate(5deg)" /> -->
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # HTML Document Structure
 ## HTML Document, Doctype, Head, Body -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic11.png" style="top:55%; left:30%; width:40%; z-index:-1; border-radius: 20px" /> -->
 
 
-<!-- attr: { id:'structure', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { id:'structure', showInPresentation:true, hasScriptWrapper:true} -->
 # <a id="structure"></a>HTML Document Structure
 - Some elements are **essential** to each HTML Document:
     - `html`, `head`, `body`, `doctype`
@@ -202,7 +206,7 @@
 
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Head Element
 - The `head` tag contains markup that is not visible to the user (i.e. the person using the browser)
   - But **helps the browser** to render correctly the HTML document
@@ -211,11 +215,11 @@
   - Declare encodings
   - Etc..
   - The `title` tag - the text in the tab of a browser
-  
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic13.png" style="top:37.91%; left:58.01%; width:25%; z-index:-1" /> -->
+
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic13.png" style="top:50%; left:58.01%; width:25%; z-index:-1; border-radius: 15px;" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Body Element and Doctype
 - `body` element contains **all the visible to the user markup**
   - Headings, text, hyperlinks, images, etc…
@@ -230,26 +234,26 @@
 
 
 
-<!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # HTML Document Structure--> 
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/02.HTML-structure.html)
+<!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true} -->
+<!-- # HTML Document Structure-->
+## [Demo](../demos/02.HTML-structure.html)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic14.png" style="top:55%; left:7%; width:34.38%; z-index:-1; border-radius: 20px; transform: rotate(-5deg)" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic15.png" style="top:55%; left:56%; width:36.81%; z-index:-1; border-radius: 20px; transform: rotate(5deg)" /> -->
 
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # HTML Common Elements
 ## Used in 90% of all the sites -->
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Text Formatting
 - Text formatting tags modify the text between the opening tag and the closing tag
-  - Ex. **&#60;b>Hello</b&#62;** makes "Hello" bold
+  - Ex. <code>&lt;b>Hello&lt;/b&gt;</code> makes "Hello" bold
   - Many of the formatting tags are deprecated
     - **Use CSS instead**
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 38px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 38px' } -->
 # Text Formatting - Tags
 |          Tags        |              Meaning             |
 |:---------------------|:--------------------------------:|
@@ -262,7 +266,7 @@
 | `<em></em>`          | <em>emphasized</em>              |
 | `<pre></pre>`        | <pre>preformatted text</pre>     |
 
-<!-- attr: { id:'commonelements', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { id:'commonelements', showInPresentation:true, hasScriptWrapper:true} -->
 # <a id="commonelements"></a>Some Simple Tags
 - Hyperlink Tags
 
@@ -285,7 +289,7 @@ This one is <strong>more emphasized.</strong>
 
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true} -->
 # Headings and Paragraphs
 - Heading Tags (`h1` – `h6`)
 
@@ -312,7 +316,7 @@ This one is <strong>more emphasized.</strong>
 
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Ordered Lists: **&#60;ol&#62;** Tag
 - Create an **Ordered List** using `<ol></ol>`:
 
@@ -329,43 +333,45 @@ This one is <strong>more emphasized.</strong>
 
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 40px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Unordered Lists: **&#60;ul&#62;** Tag
 - Create an **Unordered List** using `<ul></ul>`:
 - Attribute values for **type** are:
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/bullets-ul.png" style="top:25.5%; left:5%; width:75%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/bullets-ul.png" style="top:35%; left:5%; width:75%; z-index:-1" /> -->
 
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Definition lists: **&#60;dl&#62;** tag
 - Create **definition lists** using `<dl></dl>`
   - Pairs of text and associated definition; text is in `<dt></dt>` tag, definition in `<dd></dd>` tag
-  - Renders **without bullets**
-  - Definition is **indented**
 
 ```html
 <dl>
-  <dt>HTML</dt>
-  <dd>A markup language …</dd>
-  <dt>CSS</dt>
-  <dd>Language used to …</dd>
+<dt>HTML</dt>
+<dd>A markup language …</dd>
+<dt>CSS</dt>
+<dd>Language used to …</dd>
 </dl>
 ```
+  - Renders **without bullets**
+  - Definition is **indented**
 
-<!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+
+
+<!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true} -->
 <!-- # HTML Common Elements -->
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/03.Common-elements.html)
+## [Demo](../demos/03.Common-elements.html)
 
 <!-- section start -->
-<!-- attr: { id:'', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # Section Elements
 ## The `<div>` and the `<span>` -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic17.png" style="top:53%; left:29.5%; width:40%; z-index:-1; border-radius: 10px" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic17.png" style="top:53%; left:29.5%; width:40%; z-index:-1; border-radius: 15px" /> -->
 
 
-<!-- attr: { id:'sectionelements', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { id:'sectionelements', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 0.9em;' } -->
 # <a id="sectionelements"></a>The &#60;div&#62; Tag
 - `<div>` creates logical<br /> divisions within a page <br /> <br/>
   - Block element <br/> <br/>
@@ -379,17 +385,17 @@ This one is <strong>more emphasized.</strong>
 </p>
 ```
 
-<img class="slide-image" showInPresentation="true" src="imgs/pic18.png" style="top:20.28%; left:53.12%; width:45.91%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="imgs/pic18.png" style="top:20.28%; left:53.12%; width:45.91%; z-index:-1; border-radius: 15px" />
 
 
-<!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # &#60;DIV&#62;--> 
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/04.Section-elements-div)
+<!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true } -->
+<!-- # &#60;DIV&#62;-->
+## [Demo](../demos/04.Section-elements-div)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic19.png" style="top:55%; left:15%; width:42.31%; z-index:-1; border-radius: 15px" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic21.png" style="top:55%; left:65%; width:27%; z-index:-1; border-radius: 15px" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size:0.9em' } -->
 # The &#60;span&#62; Tag
 
 <ul style="width: 60%">
@@ -397,10 +403,10 @@ This one is <strong>more emphasized.</strong>
 <li>
     Useful for **modifying a specific portion** of text
     <ul>
-        <li>**Don't use it to create a separate area** (paragraph) in the document</li> 
+        <li>**Don't use it to create a separate area** (paragraph) in the document</li>
     </ul>
 </li>
-  
+
 <li>Mainly used to style parts of a text</li>
 
 </ul>
@@ -414,26 +420,26 @@ This one is <strong>more emphasized.</strong>
 </p>
 ```
 
-<img class="slide-image" showInPresentation="true" src="imgs/pic22.png" style="top:15%; left:70%; width:30%; z-index:-1" />
+<img class="slide-image" showInPresentation="true" src="imgs/pic22.png" style="top:15%; left:70%; width:30%; z-index:-1; border-radius: 15px" />
 
 
-<!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # &#60;SPAN&#62; --> 
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/05.Section-elements-span.html)
+<!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true } -->
+<!-- # &#60;SPAN&#62; -->
+## [Demo](../demos/05.Section-elements-span.html)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic23.png" style="top:55%; left:63.05%; width:29.5%; z-index:-1; border-radius: 15px" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic24.png" style="top:55%; left:3.74%; width:55.59%; z-index:-1; border-radius: 15px" /> -->
 
 <!-- section start -->
-<!-- attr: { id:'semantic', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { id:'semantic', class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
 # <a id="semantic"></a>Semantic Structural Tags
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # The Structure of a Web Page
 - A sample layout structure of a Web Page
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic25.png" style="top:21.16%; left:12.09%; width:83.01%; z-index:-1" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # The "HTML 4 and Before" Way
 - Using **divs with IDs**
   - The **IDs are needed for styling**
@@ -451,15 +457,15 @@ This one is <strong>more emphasized.</strong>
 </html>
 ```
 
-<!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # The HTML 4 Way--> 
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/06.Semantic-structural-tags-divs.html)
+<!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true } -->
+<!-- # The HTML 4 Way-->
+## [Demo](../demos/06.Semantic-structural-tags-divs.html)
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # The HTML5 Way
 - In **HTML5** there are **semantic tags** for layout
   - `<nav>`, `<header>`, `<footer>`, `<section>`
-  - Work only **in newer browsers**
+
 
 ```html
 <html>
@@ -473,15 +479,16 @@ This one is <strong>more emphasized.</strong>
 </body>
 </html>
 ```
+- Work only **in newer browsers**
 
 
-<!-- attr: { id:'', class:'slide-section demo', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # Semantic Structural Tags--> 
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/06.Semantic-structural-tags.html)
+<!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true } -->
+<!-- # Semantic Structural Tags-->
+## [Demo](../demos/06.Semantic-structural-tags.html)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic26.png" style="top:55%; left:30%; width:40%; z-index:-1; border-radius: 50px 0px 50px 0" /> -->
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Remember
 - It is important to have the **correct vision** and **attitude** towards HTML
   - **HTML is only about structure**, not appearance
@@ -491,12 +498,12 @@ This one is <strong>more emphasized.</strong>
   - http://validator.w3.org/
 
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # HTML Fundamentals -->
 
 <!-- <img class="slide-image" showInPresentation="true" src="https://github.com/TelerikAcademy/Common/raw/master/revealjs-theme/css/imgs/cat-questions.png" style="width:80%; top:15%; left:10%" /> -->
 
-<!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'' } -->
 # Free Trainings @ Telerik Academy
 - Fundamentals of C# Programming Track of Courses
     - [html.telerik.com](http://academy.telerik.com/student-courses/web-design-and-ui/about)
@@ -505,4 +512,4 @@ This one is <strong>more emphasized.</strong>
   - Telerik Academy @ Facebook
     - [facebook.com/TelerikAcademy](facebook.com/TelerikAcademy)
   - Telerik Academy Learning System
-    - [telerikacademy.com](telerikacademy.com)
+    - [telerikacademy.com](https://telerikacademy.com)
