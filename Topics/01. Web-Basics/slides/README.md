@@ -3,7 +3,7 @@
 # Web Technologies Basics
 ## Concepts
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:40%; left:55%; width:45.84%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:40%; left:55%; width:45.84%; z-index:-1; border-radius: 20px 0 20px 0" /> -->
 
 <div class="signature">
 	<p class="signature-course">HTML Basics</p>
@@ -24,7 +24,7 @@
 - [Service-Oriented Architecture (SOA)](#/soa)
 - [Cloud](#/cloud)
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic05.png" style="top:14.48%; left:52.66%; width:49.59%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic05.png" style="top:14.48%; left:60%; width:45%; z-index:-1" /> -->
 
 
 <!-- section start -->
@@ -65,8 +65,8 @@
 	- Applications are usually broken into logical chunks called "tiers", where every tier is assigned a role
 	- Desktop-like application in the web browser
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic07.png" style="top:13.00%; left:88.30%; width:15.87%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic08.png" style="top:15.98%; left:64.56%; width:17.63%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic07.png" style="top:13.00%; left:88.30%; width:15.87%; z-index:-1; border-radius: 15px; border: 3px solid yellowgreen" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic08.png" style="top:15.98%; left:64.56%; width:17.63%; z-index:-1; border-radius: 15px; border: 3px solid yellowgreen" /> -->
 
 
 <!-- section start -->
@@ -134,7 +134,7 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 <!-- section start -->
 <!-- attr: {  class:'slide-section', showInPresentation: true, hasScriptWrapper: true } -->
 <!-- # Hardware Servers
-<img class="slide-image" src="imgs/pic21.png" style="top:45%; left:28%; width:45%; z-index:-1" /> -->
+<img class="slide-image" src="imgs/pic21.png" style="top:45%; left:28%; width:45%; z-index:-1; border-radius: 15px" /> -->
 
 
 <!-- attr: { id:'hardwareserver', showInPresentation: true, hasScriptWrapper: true } -->
@@ -194,7 +194,7 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 <!-- # Client-Server Architecture
 ## The Classical Client-Server Model
 
-<img class="slide-image" src="imgs/pic28.png" style="top:55%; left:30.88%; width:35%; z-index:-1" /> -->
+<img class="slide-image" src="imgs/pic28.png" style="top:55%; left:30.88%; width:35%; z-index:-1; border-radius: 15px" /> -->
 
 
 <!-- attr: { id:'clientserver', showInPresentation: true } -->
