@@ -170,7 +170,7 @@
 
 <!-- section start -->
 <!-- attr: { id:'resources', class:'slide-section', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-# <a id="resources"></a>Addintional Resources
+# <a id="resources"></a>Additional Resources
 ## Optional resources for the course
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:55%; left:7.49%; width:45.33%; z-index:-1; border-radius: 15px; transform: rotate(-5deg)" /> -->
@@ -184,7 +184,7 @@
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 38px' } -->
-# Addintional Resources
+# Additional Resources
 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
   - The most complete documentation of web standards
@@ -207,7 +207,7 @@
 
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'font-size: 42px' } -->
-<!-- # Telerik IntegratedLearning System (TILS) -->
+<!-- # Telerik Integrated Learning System (TILS) -->
 - The Telerik Integrated Learning System (TILS)
   - [www.telerikacademy.com](http://www.telerikacademy.com)
   - Important resource for all students

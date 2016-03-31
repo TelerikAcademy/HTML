@@ -8,7 +8,7 @@
 <div class="signature">
 	<p class="signature-course">HTML Basics</p>
 	<p class="signature-initiative">Telerik Software Academy</p>
-	<a href="http://telerikacademy.com" class="signature-link">http://telerikacademy.com</a>
+	<a href="https://telerikacademy.com" class="signature-link">https://telerikacademy.com</a>
 </div>
 
 
@@ -36,34 +36,34 @@
 <!-- attr: { showInPresentation: true, style:'font-size: 0.9em' } -->
 # Web Page
 
--	Web Pages
-	- Are **documents** or **information resources** that are suitable for the World Wide Web
-	- Can be accessed through a **web browser** and displayed on a monitor or a mobile device
-	- This information is usually in `HTML` or `XHTML` format, and may provide navigation to other web pages via **hypertext links**
-	- Web pages frequently refer to other resources such as **style sheets** (`CSS`), **scripts** (`JavaScript`) and **images** into their final presentation
+- Web Pages
+  - Are **documents** or **information resources** that are suitable for the World Wide Web
+  - Can be accessed through a **web browser** and displayed on a monitor or a mobile device
+  - This information is usually in `HTML` or `XHTML` format, and may provide navigation to other web pages via **hypertext links**
+  - Web pages frequently refer to other resources such as **style sheets** (`CSS`), **scripts** (`JavaScript`) and **images** into their final presentation
 
 
 <!-- attr: { id:'web' } -->
 # <a id="web"></a>Web Site
 
--	Web Sites
-	- Are **collections** of related web pages containing web resources (web pages, images, videos, CSS files, JS files or other digital assets)
-	- Have **common navigation** between web pages
-	- Are **hosted** on at least one **web server**
-	- Are accessible via a  network (such as the Internet)
+- Web Sites
+  - Are **collections** of related web pages containing web resources (web pages, images, videos, CSS files, JS files or other digital assets)
+  - Have **common navigation** between web pages
+  - Are **hosted** on at least one **web server**
+  - Are accessible via a  network (such as the Internet)
 - **All publicly accessible websites** collectively constitute the **World Wide Web**
 
 
 <!-- attr: { showInPresentation: true, hasScriptWrapper: true } -->
 # Web Application
 
--	Web Application
-	- Next level web sites
-	- High interactivity
-	- High accessibility (Cloud)
-	- AJAX, Silverlight, Flash, Flex, etc.
-	- Applications are usually broken into logical chunks called "tiers", where every tier is assigned a role
-	- Desktop-like application in the web browser
+- Web Application
+  - Next level web sites
+  - High interactivity
+  - High accessibility (Cloud)
+  - AJAX, Silverlight, Flash, Flex, etc.
+  - Applications are usually broken into logical chunks called "tiers", where every tier is assigned a role
+  - Desktop-like application in the web browser
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic07.png" style="top:13.00%; left:88.30%; width:15.87%; z-index:-1; border-radius: 15px; border: 3px solid yellowgreen" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic08.png" style="top:15.98%; left:64.56%; width:17.63%; z-index:-1; border-radius: 15px; border: 3px solid yellowgreen" /> -->
@@ -96,7 +96,7 @@
   - Formatting information (such as `CSS`, `XSL`, etc.)
 - It "paints" on the content area of a window, which is displayed on a monitor or a printer
 - Typically embedded in web browsers, e-mail clients, on-line help systems or other applications that require the displaying (and editing) of web content
--	The layout engine is the "heart of a browser"
+- The layout engine is the "heart of a browser"
 
 <!-- attr: { showInPresentation: true, hasScriptWrapper: true, style:'font-size: 40px;' } -->
 # Layout Engines and Web Browsers
@@ -338,13 +338,13 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 # Free Trainings @ Telerik Academy
 
 - **HTML Basics** course @ Telerik Academy
-    - [html5course.telerik.com](html5course.telerik.com)
+  - [html5course.telerik.com](html5course.telerik.com)
 - Telerik Software Academy
-  - [academy.telerik.com](academy.telerik.com)
+  - [telerikacademy.com](https://telerikacademy.com)
 - Telerik Academy @ Facebook
   - [facebook.com/TelerikAcademy](facebook.com/TelerikAcademy)
 - Telerik Software Academy Forums
-  - [forums.academy.telerik.com](forums.academy.telerik.com)
+  - [telerikacademy.com](https://telerikacademy.com)
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic49.png" style="top:58.18%; left:90.52%; width:16.97%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic50.png" style="top:34.35%; left:68.14%; width:36.30%; z-index:-1" /> -->
