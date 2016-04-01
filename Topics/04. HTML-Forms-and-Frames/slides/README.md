@@ -22,8 +22,8 @@
   - [Sliders and Spinboxes](#/slider)
   - [Validation Fields](#/validation)
 - HTML Frames
-  - [Frame and **noframe** tags](#noframe)
-  - [**iframe** tag](#iframe)
+  - [Frame and **noframe** tags](#/noframe)
+  - [**iframe** tag](#/iframe)
   <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic03.png" style="top:20%; left:76.72%; width:24.24%; z-index:-1; border-radius:15px;" /> -->
 
 
@@ -73,21 +73,21 @@
 ```html
 <input type="text" name="FirstName" value="This is a text field" />
 ```
-- **Multi-line** text input fields (**textarea**):
+- **Multi-line** text input fields (`textarea`):
 
 ```html
 <textarea name="Comments">
     This is a multi-line text field
 </textarea>
 ```
-- **Password** input – a text field which masks the entered text with ***** signs
+- **Password** input – a text field which masks the entered text with `*` signs
 
 ```html
 <input type="password" name="pass" />
 ```
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic12.png" style="top:13%; left:70%; width:25%; z-index:-1; border-radius:15px;" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic13.png" style="top:30.63%; left:70%; width:20%; z-index:-1; border-radius:15px;" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic13.png" style="top:30.63%; left:76%; width:20%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic14.png" style="top:68%; left:70%; width:25%; z-index:-1; border-radius:15px;" /> -->
 
 
@@ -309,10 +309,10 @@
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 # Tab Index
-- The **tabindex** HTML attribute controls the order in which form fields and hyperlinks are focused when repeatedly pressing the **TAB** key
-  - **tabindex=**`0` (zero) – "natural" order
-  - If **X < Y**, then elements with **tabindex="X"** are iterated before elements with **tabindex="Y"**
-  - Elements with negative **tabindex** are skipped, however, this is not defined in the standard
+- The `tabindex` HTML attribute controls the order in which form fields and hyperlinks are focused when repeatedly pressing the **TAB** key
+  - `tabindex=0` (zero) – "natural" order
+  - If `X < Y`, then elements with `tabindex="X"` are iterated before elements with `tabindex="Y"`
+  - Elements with negative `tabindex` are skipped, however, this is not defined in the standard
 
 ```html
 <input type="text" name="second" tabindex="10" />
@@ -333,7 +333,7 @@
 <!-- section start -->
 <!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # HTML Frames
-## &#60;frameset>, &#60;frame> and &#60;iframe> -->
+## `<frameset>`, `<frame>` and `<iframe>` -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic34.png" style="top:55%; left:14%; width:30%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic35.png" style="top:55%; left:54%; width:31%; z-index:-1; border-radius:15px;" /> -->
 
@@ -368,7 +368,7 @@ _Note_: the target attribute applied to the <code>&lt;a&gt;</code> elements in t
 ## [Demo](../demos/5. Frames.html)
 
 <!-- attr: { id:'iframe', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
-# <a id="iframe"></a>Inline Frames: &#60;iframe>
+# <a id="iframe"></a>Inline Frames: `<iframe>`
 - **Inline frames** provide a way to show one website inside another website:
 
 ```html
