@@ -74,7 +74,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Simple HTML Tables
-## [Demo](../demos/1. Simple-tables.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/03.%20HTML-Tables/demos/1. Simple-tables.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic09.png" style="top:0%; left:63%; width:40%; z-index:-1; border-radius: 15px" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic10.png" style="top:10%; left:20%; width:25.67%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic11.png" style="top:49.19%; left:11.04%; width:24.68%; z-index:-1; border-radius: 15px" /> -->
@@ -105,7 +105,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Data and Header Cells
-## [Demo](../demos/2. Data-and-header-cells.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/03.%20HTML-Tables/demos/2. Data-and-header-cells.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic13.png" style="top:55%; left:60%; width:22.92%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic14.png" style="top:55%; left:17%; width:22.92%; z-index:-1" /> -->
 
@@ -176,7 +176,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Complete HTML Tables
-## [Demo](../demos/3. Complete-tables.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/03.%20HTML-Tables/demos/3. Complete-tables.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic19.png" style="top:55%; left:30%; width:40%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic20.png" style="top:50%; left:25%; width:18%; z-index:-1" /> -->
 
@@ -213,7 +213,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Nested Tables
-## [Demo](../demos/4. Nested-tables.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/03.%20HTML-Tables/demos/4. Nested-tables.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic24.png" style="top:7.35%; left:75%; width:29%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic25.png" style="top:10.40%; left:0%; width:24%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic26.png" style="top:55%; left:20%; width:23.60%; z-index:-1" /> -->
@@ -292,7 +292,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Cell Spacing and Cell Padding
-## [Demo](../demos/5. Table-cells-spacing-padding.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/03.%20HTML-Tables/demos/5. Table-cells-spacing-padding.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:50%; left:73.76%; width:25.34%; z-index:-1; border: 3px solid yellowgreen" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic31.png" style="top:45%; left:7.06%; width:22.52%; z-index:-1; border: 3px solid yellowgreen" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic32.png" style="top:0%; left:40.23%; width:40%; z-index:-1; border: 3px solid yellowgreen" /> -->
@@ -339,7 +339,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Row and Column Spans
-## [Demo](../demos/6. Table-colspan-rowspan.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/03.%20HTML-Tables/demos/6. Table-colspan-rowspan.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic36.png" style="top:45%; left:65.50%; width:25%; z-index:-1" /> -->
 
 
