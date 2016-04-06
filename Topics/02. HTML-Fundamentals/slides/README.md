@@ -390,7 +390,7 @@ This one is <strong>more emphasized.</strong>
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # &#60;DIV&#62;-->
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/04.Section-elements-div)
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/04.Section-elements-div.html)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic19.png" style="top:55%; left:15%; width:42.31%; z-index:-1; border-radius: 15px" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic21.png" style="top:55%; left:65%; width:27%; z-index:-1; border-radius: 15px" /> -->
 
