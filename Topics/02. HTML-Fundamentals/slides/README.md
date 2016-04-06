@@ -484,7 +484,7 @@ This one is <strong>more emphasized.</strong>
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # Semantic Structural Tags
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/06.Semantic-structural-tags.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/07.Semantic-structural-tags.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic26.png" style="top:55%; left:30%; width:40%; z-index:-1; border-radius: 50px 0px 50px 0" /> -->
 
 
