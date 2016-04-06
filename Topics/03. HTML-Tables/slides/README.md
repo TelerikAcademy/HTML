@@ -313,8 +313,8 @@
 <!-- # Column and Row Span -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/rowspan-colspan.png" style="top:20%; left:12.5%; width:75%; z-index:-1" /> -->
 
-<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
-# Column and Row Span – _Example_
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } 
+# Column and Row Span – _Example_ -->
 
 ```html
 <table cellspacing="0">
