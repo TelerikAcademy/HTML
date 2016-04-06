@@ -178,7 +178,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # HTML Terminology
-## [Demo](../demos/01.HTML-concepts.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/01.HTML-concepts.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic09.png" style="top:55%; left:10%; width:34.77%; z-index:-1; border-radius: 20px; transform: rotate(-5deg)" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic10.png" style="top:55%; left:57%; width:38%; z-index:-1; border-radius: 20px; transform: rotate(5deg)" /> -->
 
@@ -236,7 +236,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true} -->
 <!-- # HTML Document Structure
-## [Demo](../demos/02.HTML-structure.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/02.HTML-structure.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic14.png" style="top:55%; left:7%; width:34.38%; z-index:-1; border-radius: 20px; transform: rotate(-5deg)" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic15.png" style="top:55%; left:56%; width:36.81%; z-index:-1; border-radius: 20px; transform: rotate(5deg)" /> -->
 
@@ -362,7 +362,7 @@ This one is <strong>more emphasized.</strong>
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true} -->
 <!-- # HTML Common Elements 
-## [Demo](../demos/03.Common-elements.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/03.Common-elements.html) -->
 
 <!-- section start -->
 <!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true } -->
@@ -390,7 +390,7 @@ This one is <strong>more emphasized.</strong>
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # &#60;DIV&#62;
-## [Demo](../demos/04.Section-elements-div) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/04.Section-elements-div) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic19.png" style="top:55%; left:15%; width:42.31%; z-index:-1; border-radius: 15px" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic21.png" style="top:55%; left:65%; width:27%; z-index:-1; border-radius: 15px" /> -->
 
@@ -425,7 +425,7 @@ This one is <strong>more emphasized.</strong>
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # &#60;SPAN&#62; 
-## [Demo](../demos/05.Section-elements-span.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/05.Section-elements-span.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic23.png" style="top:55%; left:63.05%; width:29.5%; z-index:-1; border-radius: 15px" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic24.png" style="top:55%; left:3.74%; width:55.59%; z-index:-1; border-radius: 15px" /> -->
 
@@ -459,7 +459,7 @@ This one is <strong>more emphasized.</strong>
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # The HTML 4 Way
-## [Demo](../demos/06.Semantic-structural-tags-divs.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/06.Semantic-structural-tags-divs.html) -->
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # The HTML5 Way
@@ -484,7 +484,7 @@ This one is <strong>more emphasized.</strong>
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true } -->
 <!-- # Semantic Structural Tags
-## [Demo](../demos/06.Semantic-structural-tags.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/02.%20HTML-Fundamentals/demos/06.Semantic-structural-tags.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic26.png" style="top:55%; left:30%; width:40%; z-index:-1; border-radius: 50px 0px 50px 0" /> -->
 
 

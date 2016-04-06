@@ -219,7 +219,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # HTML Forms <br /> Inputs Fields -->
-## [Demo](../demos/1. Form-input-fields.html)
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/1. Form-input-fields.html)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic19.png" style="top:11.46%; left:7%; width:21.16%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic20.png" style="top:50.25%; left:8%; width:21.16%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic21.png" style="top:9.99%; left:78%; width:21.16%; z-index:-1; border-radius:15px;" /> -->
@@ -255,7 +255,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Sliders and Spinboxes -->
-## [Demo](../demos/2. Sliders-spinboxes.html)
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/2. Sliders-spinboxes.html)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic27.png" style="top:55%; left:5%; width:25%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic28.png" style="top:55%; left:75%; width:20%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic29.png" style="top:55%; left:35%; width:35%; z-index:-1; border-radius:15px;" /> -->
@@ -302,7 +302,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # HTML Forms Validation -->
-## [Demo](../demos/3. Forms-validation.html)
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/3. Forms-validation.html)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:50%; left:14.03%; width:20%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic31.png" style="top:50%; left:65.50%; width:20%; z-index:-1; border-radius:15px;" /> -->
 
@@ -323,7 +323,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Tab Index -->
-## [Demo](../demos/4. Tab-index.html)
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/4. Tab-index.html)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic32.png" style="top:50%; left:63%; width:20%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic33.png" style="top:50%; left:16%; width:20%; z-index:-1; border-radius:15px;" /> -->
 
@@ -365,7 +365,7 @@ _Note_: the target attribute applied to the <code>&lt;a&gt;</code> elements in t
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # HTML Frames -->
-## [Demo](../demos/5. Frames.html)
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/5. Frames.html)
 
 <!-- attr: { id:'iframe', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 # <a id="iframe"></a>Inline Frames: `<iframe>`
@@ -382,7 +382,7 @@ _Note_: the target attribute applied to the <code>&lt;a&gt;</code> elements in t
 ```
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # iframes -->
-## [Demo](../demos/6. IFrame.html)
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/6. IFrame.html)
 
 <!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:false, style:'font-size: 42px' } -->
 <!-- # HTML Forms and Frames
