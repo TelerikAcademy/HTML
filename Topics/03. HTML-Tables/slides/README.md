@@ -1,12 +1,16 @@
 <!-- section start -->
 <!-- attr: { class:'slide-title', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 # HTML Tables
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:54.85%; left:40%; width:28.28%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic01.png" style="top:55%; left:5%; width:28.10%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic00.png" style="top:54.85%; left:45%; width:28.28%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic02.png" style="top:66.60%; left:63%; width:5.11%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic03.png" style="top:48.57%; left:75%; width:30.50%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic04.png" style="top:5.99%; left:15%; width:22.69%; z-index:-1" /> -->
 
+<div class="signature">
+    <p class="signature-course">HTML Basics</p>
+    <p class="signature-initiative">Telerik Software Academy</p>
+    <a href="https://telerikacademy.com" class="signature-link">https://telerikacademy.com</a>
+</div>
 
 
 
