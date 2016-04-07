@@ -26,7 +26,7 @@
   - [Cell Spacing and Padding](#/cells)
   - [Column and Row Span](#/spans)
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic05.png" style="top:21.83%; left:69.10%; width:37.47%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic05.png" style="top:21.83%; left:69.10%; width:37.47%; z-index:-1; border-radius: 15px; border: 3px solid yellowgreen" /> -->
 
 
 
@@ -67,8 +67,9 @@
   </tr>
   <tr>
     <td><img src="zip.gif"></td>
-    <td><a href="lecture2-demos.zip">
-      Lecture 2 - Demos</a></td>
+    <td>
+      <a href="lecture2-demos.zip">Lecture 2 - Demos</a>
+      </td>
   </tr>
 </table>
 ```
@@ -77,10 +78,10 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Simple HTML Tables
-## [Demo](../demos/1. Simple-tables.html) -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic09.png" style="top:0%; left:63%; width:40%; z-index:-1" /> -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/03.%20HTML-Tables/demos/1. Simple-tables.html) -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic09.png" style="top:0%; left:63%; width:40%; z-index:-1; border-radius: 15px" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic10.png" style="top:10%; left:20%; width:25.67%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic11.png" style="top:49.19%; left:11.04%; width:24.68%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic11.png" style="top:49.19%; left:11.04%; width:24.68%; z-index:-1; border-radius: 15px" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic12.png" style="top:50.84%; left:64.50%; width:37.02%; z-index:-1" /> -->
 
 
@@ -108,7 +109,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Data and Header Cells
-## [Demo](../demos/2. Data-and-header-cells.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/03.%20HTML-Tables/demos/2. Data-and-header-cells.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic13.png" style="top:55%; left:60%; width:22.92%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic14.png" style="top:55%; left:17%; width:22.92%; z-index:-1" /> -->
 
@@ -179,9 +180,9 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Complete HTML Tables
-## [Demo](../demos/3. Complete-tables.html) -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic19.png" style="top:55%; left:27%; width:40%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic20.png" style="top:55%; left:8%; width:18%; z-index:-1" /> -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/03.%20HTML-Tables/demos/3. Complete-tables.html) -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic19.png" style="top:55%; left:30%; width:40%; z-index:-1" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic20.png" style="top:50%; left:25%; width:18%; z-index:-1" /> -->
 
 <!-- section start -->
 <!-- attr: { id:'nestedtables', class:'slide-section', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
@@ -216,11 +217,10 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Nested Tables
-## [Demo](../demos/4. Nested-tables.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/03.%20HTML-Tables/demos/4. Nested-tables.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic24.png" style="top:7.35%; left:75%; width:29%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic25.png" style="top:10.40%; left:0%; width:24%; z-index:-1" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic26.png" style="top:55%; left:20%; width:23.60%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic27.png" style="top:55%; left:55%; width:25.32%; z-index:-1" /> -->
 
 
 <!-- section start -->
@@ -249,12 +249,17 @@
   <head><title>Table Cells</title></head>
   <body>
     <table cellspacing="15" cellpadding="0">
-      <tr><td>First</td>
-      <td>Second</td></tr>
+      <tr>
+          <td>First</td>
+          <td>Second</td>
+      </tr>
     </table>
     <br/>
     <table cellspacing="0" cellpadding="10">
-      <tr><td>First</td><td>Second</td></tr>
+      <tr>
+          <td>First</td>
+          <td>Second</td>
+      </tr>
     </table>
   </body>
 </html>
@@ -270,12 +275,17 @@
   <head><title>Table Cells</title></head>
   <body>
     <table cellspacing="15" cellpadding="0">
-      <tr><td>First</td>
-      <td>Second</td></tr>
+      <tr>
+          <td>First</td>
+          <td>Second</td>
+      </tr>
     </table>
     <br/>
     <table cellspacing="0" cellpadding="10">
-      <tr><td>First</td><td>Second</td></tr>
+      <tr>
+          <td>First</td>
+          <td>Second</td>
+      </tr>
     </table>
   </body>
 </html>
@@ -286,10 +296,10 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Cell Spacing and Cell Padding
-## [Demo](../demos/5. Table-cells-spacing-padding.html) -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:50%; left:73.76%; width:25.34%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic31.png" style="top:45%; left:7.06%; width:22.52%; z-index:-1" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic32.png" style="top:0%; left:40.23%; width:40%; z-index:-1" /> -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/03.%20HTML-Tables/demos/5. Table-cells-spacing-padding.html) -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:50%; left:73.76%; width:25.34%; z-index:-1; border: 3px solid yellowgreen" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic31.png" style="top:45%; left:7.06%; width:22.52%; z-index:-1; border: 3px solid yellowgreen" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic32.png" style="top:0%; left:40.23%; width:40%; z-index:-1; border: 3px solid yellowgreen" /> -->
 
 
 
@@ -307,8 +317,8 @@
 <!-- # Column and Row Span -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/rowspan-colspan.png" style="top:20%; left:12.5%; width:75%; z-index:-1" /> -->
 
-<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
-# Column and Row Span – _Example_
+<!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } 
+# Column and Row Span – _Example_ -->
 
 ```html
 <table cellspacing="0">
@@ -319,7 +329,8 @@
   <tr class="2">
   	<td>Cell[1,2]</td>
   	<td rowspan="2">Cell[2,2]</td>
-  	<td>Cell[3,2]</td></tr>
+  	<td>Cell[3,2]</td>
+  </tr>
   <tr class="3">
   	<td>Cell[1,3]</td>
   	<td>Cell[2,3]</td>
@@ -332,7 +343,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Row and Column Spans
-## [Demo](../demos/6. Table-colspan-rowspan.html) -->
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/03.%20HTML-Tables/demos/6. Table-colspan-rowspan.html) -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic36.png" style="top:45%; left:65.50%; width:25%; z-index:-1" /> -->
 
 
@@ -340,7 +351,7 @@
 <!-- # HTML – Tables and Forms -->
 <!-- ## Questions? -->
 
-<!-- <img class="slide-image" showInPresentation="true" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/questions-blue.png" style="width:60%; top:15%; left:10%" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/questions-blue.png" style="width:60%; top:20%; left:20%; border-radius: 50px 0 50px 0" /> -->
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'' } -->
 # Free Trainings @ Telerik Academy
