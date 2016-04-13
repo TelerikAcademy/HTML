@@ -102,7 +102,7 @@
 - **Submit** button:
 
 ```html
-<input type="image" src="submit.gif"
+<input type="submit" src="submit.gif"
   name="submitBtn" alt="Submit" />
 ```
 
@@ -111,12 +111,12 @@
 - **Image** button – acts like submit but image is displayed and click coordinates are sent
 
 ```html
-<input type="button" value="click me" />
+<input type="image" value="click me" />
 ```
 - **Ordinary** button – no default action, used with JS
 
 ```html
-<input type="submit" value="Apply Now" />
+<input type="button" value="Apply Now" />
 ```
 
 
@@ -249,7 +249,7 @@
 <input type="number" min="0" max="100" />
 ```
   - Have some **differences** on **different browsers**
-  - Spinboxes do not work on **Firefox**
+  - Spinboxes **do not work** on all the browsers
     - Shown as regular textboxes
 
 
