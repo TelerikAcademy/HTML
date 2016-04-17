@@ -4,7 +4,7 @@ HTML Forms and Frames
 ### Problem 1. Registration form
 *	Create a Web form that looks like this sample:
 
-![picture1](https://github.com/karabeliov/Telerik-Academy/blob/master/Homeworks/C%231/07.Exam-preparation/form.png)
+![picture1](https://cloud.githubusercontent.com/assets/3619393/7003233/b2d1d68c-dc5f-11e4-8758-72d6af6d5cc0.png)
 
 ### Problem 2. University grid
 *	Create the following using tables and forms:
