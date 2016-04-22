@@ -2,7 +2,7 @@ Semantic HTML
 =============
 
 ### Problem 1. Refactoring
-*	Refactor (edit) the [homework-refactoring.html](https://github.com/TelerikAcademy/HTML/blob/master/6.%20Semantic%20HTML/homework-refactoring.html) web page and make it HTML semantic.
+*	Refactor (edit) the [homework-refactoring.html](https://github.com/nmarazov/HTML/blob/master/Topics/05.%20Semantic-HTML/homework/homework-refactoring.html) web page and make it HTML semantic.
 
 ### Problem 2. Student System
 *	Create a web page using semantic HTML by the design.
