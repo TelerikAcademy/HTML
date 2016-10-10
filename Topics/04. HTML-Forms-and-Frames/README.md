@@ -66,7 +66,7 @@
 <div class="fragment balloon" style="top:30%; left:41.43%;">The "method" attribute tells how the form data should be sent – via GET or POST request</div>
 
 
-<!-- attr: { id:'field', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
+<!-- attr: { id:'field', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 0.8em' } -->
 # <a id="field"></a>Text Fields
 - **Single-line** text input fields:
 
@@ -86,9 +86,9 @@
 <input type="password" name="pass" />
 ```
 
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic12.png" style="top:13%; left:70%; width:25%; z-index:-1; border-radius:15px;" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic13.png" style="top:30.63%; left:76%; width:20%; z-index:-1; border-radius:15px;" /> -->
-<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic14.png" style="top:68%; left:70%; width:25%; z-index:-1; border-radius:15px;" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic12.png" style="top:13%; left:70%; width:25%; z-index:1; border-radius:15px;" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic13.png" style="top:30.63%; left:76%; width:20%; z-index:1; border-radius:15px;" /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="imgs/pic14.png" style="top:68%; left:70%; width:25%; z-index:1; border-radius:15px;" /> -->
 
 
 <!-- attr: { id:'button', showInPresentation:true, hasScriptWrapper:true } -->
@@ -219,7 +219,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # HTML Forms <br /> Inputs Fields -->
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/1. Form-input-fields.html)
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/1.%20Form-input-fields.html)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic19.png" style="top:11.46%; left:7%; width:21.16%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic20.png" style="top:50.25%; left:8%; width:21.16%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic21.png" style="top:9.99%; left:78%; width:21.16%; z-index:-1; border-radius:15px;" /> -->
@@ -255,7 +255,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Sliders and Spinboxes -->
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/2. Sliders-spinboxes.html)
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/2.%20Sliders-spinboxes.html)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic27.png" style="top:55%; left:5%; width:25%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic28.png" style="top:55%; left:75%; width:20%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic29.png" style="top:55%; left:35%; width:35%; z-index:-1; border-radius:15px;" /> -->
@@ -302,7 +302,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # HTML Forms Validation -->
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/3. Forms-validation.html)
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/3.%20Forms-validation.html)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic30.png" style="top:50%; left:14.03%; width:20%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic31.png" style="top:50%; left:65.50%; width:20%; z-index:-1; border-radius:15px;" /> -->
 
@@ -323,7 +323,7 @@
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # Tab Index -->
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/4. Tab-index.html)
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/4.%20Tab-index.html)
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic32.png" style="top:50%; left:63%; width:20%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic33.png" style="top:50%; left:16%; width:20%; z-index:-1; border-radius:15px;" /> -->
 
@@ -365,7 +365,7 @@ _Note_: the target attribute applied to the <code>&lt;a&gt;</code> elements in t
 
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # HTML Frames -->
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/5. Frames.html)
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/5.%20Frames.html)
 
 <!-- attr: { id:'iframe', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 # <a id="iframe"></a>Inline Frames: `<iframe>`
@@ -382,7 +382,7 @@ _Note_: the target attribute applied to the <code>&lt;a&gt;</code> elements in t
 ```
 <!-- attr: { class:'slide-section demo', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # iframes -->
-## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/6. IFrame.html)
+## [Demo](https://github.com/TelerikAcademy/HTML/tree/master/Topics/04.%20HTML-Forms-and-Frames/demos/6.%20IFrame.html)
 
 <!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:false, style:'font-size: 42px' } -->
 <!-- # HTML Forms and Frames
@@ -392,7 +392,7 @@ _Note_: the target attribute applied to the <code>&lt;a&gt;</code> elements in t
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Free Trainings @ Telerik Academy
-- Fundamentals of C# ProgrammingTrack of Courses
+- Web front-end track
     - [html.telerik.com](http://academy.telerik.com/student-courses/web-design-and-ui/about)
   - Telerik Software Academy
     - [academy.telerik.com](academy.telerik.com)

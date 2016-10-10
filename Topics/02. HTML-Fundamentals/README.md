@@ -505,7 +505,7 @@ This one is <strong>more emphasized.</strong>
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'' } -->
 # Free Trainings @ Telerik Academy
-- Fundamentals of C# Programming Track of Courses
+- Web front-end track
     - [html.telerik.com](http://academy.telerik.com/student-courses/web-design-and-ui/about)
   - Telerik Software Academy
     - [academy.telerik.com](academy.telerik.com)

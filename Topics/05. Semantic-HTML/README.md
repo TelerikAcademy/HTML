@@ -379,7 +379,7 @@
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true } -->
 # Free Trainings @ Telerik Academy
-- Fundamentals of C# Programming Track of Courses
+- Web front-end track
     - [html.telerik.com](http://academy.telerik.com/student-courses/web-design-and-ui/about)
   - Telerik Software Academy
     - [telerikacademy.com](https://telerikacademy.com)

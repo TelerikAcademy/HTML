@@ -236,9 +236,9 @@
 <!-- section start  -->
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
-# HTML Basics: Course Introduction
+# HTML Basics:<br /> Course Introduction
 
-<!-- <img class="slide-image" showInPresentation="true" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/questions-blue.png" style="width:80%; top:15%; left:10%; border-radius: 20px"; /> -->
+<!-- <img class="slide-image" showInPresentation="true" src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/revealjs-theme/css/imgs/questions-blue.png" style="width:70%; top:25%; left:15%; border-radius: 20px"; /> -->
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'True', style:'' } -->
 # Free Trainings @ Telerik Academy
