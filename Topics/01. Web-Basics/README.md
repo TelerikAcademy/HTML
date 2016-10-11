@@ -20,8 +20,6 @@
 - [Hardware Servers](#/hardwareserver)
 - [Web Servers](#/webserver)
 - [Client-Server Architecture](#/clientserver)
-- [3-Tier / Multi-Tier Architectures](#/3tier)
-- [Service-Oriented Architecture (SOA)](#/soa)
 - [Cloud](#/cloud)
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic05.png" style="top:14.48%; left:60%; width:45%; z-index:-1" /> -->
@@ -241,55 +239,6 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 - DNS server (bind) – DNS client (resolver)
 - DHCP server (wireless router firmware) – DHCP client (mobile phone /Android DHCP client/)
 - SMB server (Windows) – SMB client (Windows)
-
-
-
-
-<!-- section start -->
-
-<!-- attr: {  class:'slide-section', showInPresentation: true, hasScriptWrapper: true } -->
-<!-- # 3-Tier / Multi-Tier Architectures
-## Classical Layered Structure of Software Systems -->
-
-<!-- attr: { id:'three-tier', showInPresentation: true } -->
-# <a id="three-tier"></a>The 3-Tier Architecture
-- The **3-tier architecture** consists of the following tiers (layers):
-  - **Front-end** (client layer)
-    - Client software – provides the UI of the system
-  - **Middle tier**(business layer)
-    - Server software – provides the core system logic
-    - Implements the business processes / services
-  - **Back-end** (data layer)
-    - Manages the data of the system (database / cloud)
-
-
-<!-- attr: { showInPresentation: true, hasScriptWrapper: true } -->
-# The 3-Tier Architecture Model
-
-<img class="slide-image" src="imgs/3-tier.png" style="top:15%; left:10%; width:85%; z-index:-1" />
-
-
-<!-- attr: { showInPresentation: true, hasScriptWrapper: true } -->
-# Typical Layers of the Middle Tier
-- The middle tier usually has parts related to the front-end, business logic and back-end:
-
-<img class="slide-image" src="imgs/middle-tier.png" style="top:40%; left:10%; width:75%; z-index:-1" />
-
-
-
-<!-- section start -->
-<!-- attr: {  class:'slide-section', showInPresentation: true, hasScriptWrapper: true } -->
-<!-- # Service-Oriented Architecture (SOA) -->
-
-<!-- attr: { id:'soa', showInPresentation: true } -->
-# <a id="soa"></a>What is a Service?
-- In the real world a "**service**" is:
-  - A piece of work performed by a service provider
-  - Provides the client (consumer) some desired result by some input parameters
-    - The requirements and the result are known
-  - Easy to use
-  - Always available
-  - Has quality characteristics (price, execution time, constraints, etc.)
 
 
 <!-- section start -->
