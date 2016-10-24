@@ -277,7 +277,7 @@
   - The field is required to be filled/selected
 
 
-<!-- attr: { id:'validation', showInPresentation:true, hasScriptWrapper:true, style:'font-size:0.8em' } -->
+<!-- attr: { id:'validation', showInPresentation:true, hasScriptWrapper:true, style:'font-size:0.75em' } -->
 # <a id="validation"></a>Input Fields with Validation
 - **Email** – provides a simple validation for email
   - Can be passed a pattern for validation
@@ -293,7 +293,7 @@
 <input type="url" required="true" />
 ```
 - **Telephone**
-  - Brings the numeric keyboard (currently supported only in Safari 8.)
+  - Brings the numeric keyboard (currently supported only in Safari 8)
 
 ```html
 <input type="tel" required="true" />
