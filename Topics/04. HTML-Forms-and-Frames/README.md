@@ -26,7 +26,7 @@
   - [**iframe** tag](#/iframe)
   <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic03.png" style="top:20%; left:76.72%; width:24.24%; z-index:-1; border-radius:15px;" /> -->
 
-
+// 
 <!-- section start -->
 <!-- attr: { class:'slide-section', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 <!-- # HTML Forms
@@ -192,7 +192,7 @@
   - Radio buttons are **checked**
 - Labels are
   - Both a **usability** and **accessibility** feature
-  - Required in to pass accessibility validation
+  - Required to pass accessibility validation
 
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
