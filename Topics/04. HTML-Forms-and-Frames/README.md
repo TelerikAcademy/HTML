@@ -102,8 +102,7 @@
 - **Submit** button:
 
 ```html
-<input type="submit" src="submit.gif"
-  name="submitBtn" alt="Submit" />
+<input type="submit" name="submitBtn" value="Submit" />
 ```
 
 <!-- attr: { id:'button', showInPresentation:true, hasScriptWrapper:true } -->
@@ -111,7 +110,8 @@
 - **Image** button – acts like submit but image is displayed and click coordinates are sent
 
 ```html
-<input type="image" value="click me" />
+<input type="image" src="submit.gif"
+  value="click me" alt="Submit" />
 ```
 - **Ordinary** button – no default action, used with JS
 
