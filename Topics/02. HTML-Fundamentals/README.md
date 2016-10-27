@@ -287,6 +287,12 @@ This text is <em>emphasized.</em>
 This one is <strong>more emphasized.</strong>
 ```
 
+# Hyperlink Tags
+<!-- TODO: 
+- `target` attribute
+  - `_blank`
+  - `_self`
+-->
 
 
 <!-- attr: { showInPresentation:true, hasScriptWrapper:true} -->
