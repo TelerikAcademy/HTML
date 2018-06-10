@@ -221,7 +221,7 @@
 
 <!-- attr: { id:'software', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
 # <a id="software"></a>Required Software
-- Software needed for this course:
+- One of the following programs are needed for this course: 
   - [Atom](https://atom.io/)
   - [Sublime Text 2/3](http://www.sublimetext.com/2)
   - [Notepad++](https://notepad-plus-plus.org/)
