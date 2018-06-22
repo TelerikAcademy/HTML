@@ -1,0 +1,36 @@
+<html>
+<body bgcolor="cyan" text=red>
+<font size=7 color=black face=verdana><center>FORM</center></font>
+<form>
+<font size=5>
+Name:     <input type="text" size=5 maxlength=15><br><br>
+Student No:      <input type="text"><br><br>
+Address:       <textarea rows=5  cols=5></textarea><br><br>
+Indian    <input type=checkbox><br><br>
+Which Place do you like?<br>
+Agra  <input type=radio name=place>
+Jaipur  <input type=radio name=place>
+Lucknow  <input type=radio name=place>
+<br>
+<br>
+<select name=dropdown1>
+<option value=sid>Sid</option>
+<option value=rahul>Rahul</option>
+<option value=vatsal>Vatsal</option>
+<option value=shubham>Shubham</option>
+<option value=kapil selected>Kapil</option>
+</select ><br><br>
+Upload the PDF file<br>
+<input type=file size="300"><br><br>
+ <select name=dropdown2>
+<option value=b><img src=b.jpg></option>
+<option value=a><img src=a.jpg></option>
+</select ><br><br>
+<input type=submit value=Submit>
+<input type=reset value=Reset>
+</font>
+</form>
+</body>
+</html>vb
+
+
