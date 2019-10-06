@@ -46,6 +46,7 @@
   - Each row has one or more columns
 - Tables are comprised of several core tags:
   - `<table></table>`:  begin/end table definition
+  - `<th></th>`: create a table heading
   - `<tr></tr>`: create a table row
   - `<td></td>`: create tabular data (cell)
 - Tables should not be used for layout
@@ -57,6 +58,10 @@
 
 ```html
 <table cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Image></td>
+    <th>Presentation</td>
+  </tr>
   <tr>
     <td><img src="ppt.gif"></td>
     <td><a href="lecture1.ppt">Lecture 1</a></td>
