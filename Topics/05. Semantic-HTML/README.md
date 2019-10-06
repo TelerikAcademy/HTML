@@ -49,6 +49,7 @@
 
 <!-- attr: { id:'html', showInPresentation:true, hasScriptWrapper:true, style:'font-size: 42px' } -->
 # <a id="html"></a>The Elements of a Web Page: HTML Markup
+- Add machine readable data for search engines
 - The HTML is used to define<br />the **content** of a Web page
   - Not the layout
   - Not the decorations
@@ -87,7 +88,6 @@
 # The Elements of a Web Page: Other Resources
 - Other resources are needed for a Web page to run properly
   - Images, fonts (glyph icons), audio, video files
-  - Flash / Silverlight / ActiveX objects
 
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic09.png" style="top:52.58%; left:42.41%; width:20.69%; z-index:-1; border-radius:15px;" /> -->
 <!-- <img class="slide-image" showInPresentation="true" src="imgs/pic10.png" style="top:67.12%; left:72.79%; width:10.66%; z-index:-1; border-radius:15px;" /> -->
@@ -111,7 +111,7 @@
 - **Semantic** HTML is:
   - The use of HTML markup to reinforce the semantics of the information in Web pages
     - Make the content understandable for computers
-  - Rather than merely to define its presentation
+  - Rather than merely to define it's presentation
   - A kind of **metadata** about the HTML content
 - Semantic HTML is processed by regular Web browsers and other user agents
   - CSS is used to suggest its presentation to human users
