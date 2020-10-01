@@ -1,4 +1,4 @@
-# HTML Basics Course Repository
+# HTML Basics Course Repository-
 
 
 Repository for the Course [HTML Basics](http://) at [Telerik Academy](http://)
@@ -25,7 +25,7 @@ Web sites, Web servers
 
 ### [02. HTML Fundamentals](/Topics/02. HTML-Fundamentals)
 
-HyperText Markup Language, tags, attributes
+HyperText Markup Language(HTML), Tags, Attributes
 
 ##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="18"/>Slides](https://rawgit.com/TelerikAcademy/HTML/master/Topics/02. HTML-Fundamentals/slides/index.html) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/02. HTML-Fundamentals/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/02. HTML-Fundamentals/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="15"> Videos](/Topics/02. HTML-Fundamentals/VIDEOS.md)
 
