@@ -32,7 +32,7 @@ HyperText Markup Language, tags, attributes
 
 ### [03. HTML-Tables](/Topics/03. HTML-Tables)
 
-Tables and why they are not used anymore
+Tables and why they are not used anymore pros and cons of it in detail
 
 ##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="18"/>Slides](https://rawgit.com/TelerikAcademy/HTML/master/Topics/03. HTML-Tables/slides/index.html) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/03. HTML-Tables/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/03. HTML-Tables/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="15"> Videos](/Topics/03. HTML-Tables/VIDEOS.md)
 
