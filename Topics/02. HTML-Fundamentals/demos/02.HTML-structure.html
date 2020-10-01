@@ -6,17 +6,22 @@
         img {
             width: 150px;
         }
-    </style>
-    <script>
-        function onClick() {
-            alert("Clicked");
+        a {
+            font-size:1.5rem;
+            color:grey;
         }
-    </script>
+    </style>
 </head>
 <body>
-    <h1>Hello Pesho!</h1>
-    <a href="https://google.com">go to Google</a>
+    <h1>Hello World!</h1>
+    <a href="https://google.com">Google Search</a>
     <hr width="95%" size="3" />
-    <img src="images/SEB-Ninja.png" onclick="onClick()" />
+    <img src="images/SEB-Ninja.png"/>
+    
+    <script>
+        document.querySelector('img').addEventListener('click') =>{
+            alert("welcome to google");
+        }
+     </script>
 </body>
 </html>
