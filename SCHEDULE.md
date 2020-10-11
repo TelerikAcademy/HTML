@@ -1,4 +1,4 @@
-#   Lectures Schedule for the [HTML Basics Course](http://telerikacademy.com/Courses/Courses/Details/324) @ [Telerik Academy](http://academy.telerik.com)
+#   Lectures Schedule for the [HTML Basics Course](https://telerikacademy.com/Courses/Courses/Details/324) @ [Telerik Academy](http://academy.telerik.com)
 
 ##  Schedule by dates
 
