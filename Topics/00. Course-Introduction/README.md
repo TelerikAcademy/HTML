@@ -123,7 +123,7 @@
 - Homework assignments due few days after each lecture
   - No excuses for being late
   - Deadlines are final & enforced by the system</u>
-- Submit homework through [telerikacademy.com](http://telerikacademy.com)
+- Submit homework through [telerikacademy.com](https://telerikacademy.com)
 
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
 # Homework Peer Reviews
@@ -198,7 +198,7 @@
 <!-- attr: { id:'', class:'', showInPresentation:'True', hasScriptWrapper:'False', style:'font-size: 42px' } -->
 # Course Web Site & Forums
 - Register for the "Telerik Academy Forums":
-  - http://telerikacademy.com/Forum/Category/27/HTML-CSS
+  - https://telerikacademy.com/Forum/Category/27/HTML-CSS
   - Discuss the course exercises with your colleagues
   - Find solutions for the exercises
   - Share source code / discuss ideas
@@ -215,7 +215,7 @@
   - Homework peer reviews
   - Presence cards with barcode
   - Reports about your results
-- [telerikacademy.com/Courses/Courses/Details/324](http://telerikacademy.com/Courses/Courses/Details/324)
+- [telerikacademy.com/Courses/Courses/Details/324](https://telerikacademy.com/Courses/Courses/Details/324)
 <img class="slide-image" showInPresentation="true" src="imgs/pic42.png" style="top:37.91%; left:70.03%; width:25%; z-index:-1" />
 
 

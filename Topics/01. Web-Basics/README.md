@@ -280,7 +280,7 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 
 <!-- attr: {  class:'slide-section', showInPresentation: true } -->
 # Questions?
-## Ask at [our forum](http://telerikacademy.com/Forum/Category/27/html-css)
+## Ask at [our forum](https://telerikacademy.com/Forum/Category/27/html-css)
 
 
 <!-- attr: {hasScriptWrapper: true } -->
